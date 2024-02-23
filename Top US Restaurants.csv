@@ -1,0 +1,830 @@
+﻿name,city,state,zipcode,country,cuisines,pickup_enabled,delivery_enabled,weighted_rating_value,aggregated_rating_count
+24/7 Gourmet Pizza,Oak Harbor,WA,98277,US,"Breakfast, Comfort Food, Diner, Italian, Late Night, Lunch, Pasta, Pizza, Salads",TRUE,TRUE,2,48
+24/7 Gourmet Pizza,Redmond,WA,98052,US,"Curry, Gyro, Pasta, Pizza, Salads, Subs, Vegetarian",FALSE,TRUE,1,128
+280 Marathon,Opelika,AL,36804,US,"Ice Cream, Pizza",FALSE,TRUE,3.6,23
+280 Marathon,Opelika,AL,36804,US,"Ice Cream, Pizza",FALSE,TRUE,3.6,23
+7 Cravings Soulfood Seafood Express,"Cleveland,",OH,44109,US,"American, Burgers, Soul Food",TRUE,TRUE,2.7,23
+A&j's Cafe,Melbourne,FL,32934,US,"Breakfast, Breakfast And Brunch, Cafe, Cafes, Lunch, Salads, Smoothies, Snacks, Wraps",TRUE,TRUE,1,1
+A&w,American Fork,UT,84003,US,"American, Burger, Burgers, Fast Food, Fried Chicken, Milk Shakes, Vegetarian Friendly",TRUE,TRUE,3.7,193
+"Abanico Tapas Bar, Restaurant & Music",Greenville,SC,29601,US,"Chicken, Desserts, European, Latin, Mediterranean, Pork, Salad, Seafood, Spanish, Tapas, Tapas/Small Plates, Vegan, Vegetarian",TRUE,TRUE,3.8,33
+Acai Aura,Oakland,CA,94601,US,"Alcohol, A√ßa√≠, Bowls, Healthy, Salads, Vegan, Vegetarian",TRUE,TRUE,3.1,33
+Addictive Fried Chicken,Dudley,NC,28333,US,"American, Chicken, Chicken Wings, Comfort Food, Fried Chicken, Fries, Nachos",FALSE,TRUE,3.1,29
+African Spices,San Diego,CA,92115,US,"African, Black-Owned, Mediterranean",TRUE,TRUE,1.7,3
+Al Carbon Y Mas,Naples,FL,34104,US,"Bakery, Cuban, Dinner, Latin American, Lunch, Mexican, Peruvian, Pizza, Seafood, Spanish",TRUE,TRUE,3.7,28
+Alicia's Market,Honolulu,HI,96819,US,"American, Asian, Bowls, Burgers, Dinner, Hawaiian, Lunch, Poke, Sandwiches, Seafood, Snacks, Sushi",TRUE,TRUE,4.4,80
+All You Need,Sunny Isles Beach,FL,33160,US,,TRUE,TRUE,2.5,2
+Alpha Food,Irving,TX,75039,US,"Allergy Friendly, Asian, Chinese, Noodles",TRUE,TRUE,1.7,51
+American Deli,Fairburn,GA,30213,US,"American, Burgers, Deli, Sandwich, Wings",TRUE,TRUE,4.1,241
+Ancora - Downtown,Madison,WI,53703,US,"Bakery, Bakery Food, Breakfast, Coffee & Tea, Comfort Food, Free Delivery, Healthy Food, Subs & Sandwiches, Vegetarian",TRUE,TRUE,4.2,126
+And Fish Kitchen + Bar,Pompano Beach,FL,33062,US,"American, Breakfast & Brunch, Seafood",FALSE,TRUE,3.7,13
+And Fish Kitchen + Bar,Pompano Beach,FL,33062,US,"American, Breakfast & Brunch, Seafood",FALSE,TRUE,3.7,13
+Andy's Garage - Minneapolis,Minneapolis,MN,55407,US,"American, American (Traditional), Breakfast, Breakfast & Brunch, Burger, Burgers, Comfort Food, Desserts, Diners, Mexican, Salads, Sandwiches, Taco, Tacos",TRUE,TRUE,4.7,178
+Andy's Pizza Bethesda,Bethesda,MD,20814,US,"American, Breakfast, Deli, Dinner, Italian, Lunch, Pizza, Sandwiches, Subs & Sandwiches",TRUE,TRUE,4.7,118
+Antojitos Mexicanos,Appleton,WI,54911,US,Mexican Food,TRUE,TRUE,3.5,129
+Antojitos Y Mas,Naples,FL,34116,US,"Allergy Friendly, American, Desserts, Ice Cream, Latin American, Mexican, New Mexican",TRUE,TRUE,4.7,24
+AP Sushi,Berkeley,CA,94710,US,"Asian, Gluten-Free, Healthy, Ice Cream, Japanese, Pickup, Rice Bowl, Salads, Sashimi, Seafood, Soup, Sushi, Sushi Bars, Takeout",FALSE,TRUE,1.9,14
+AP Sushi,Berkeley,CA,94710,US,"Asian, Gluten-Free, Healthy, Ice Cream, Japanese, Pickup, Rice Bowl, Salads, Sashimi, Seafood, Soup, Sushi, Sushi Bars, Takeout",FALSE,TRUE,1.9,14
+Applebee's,Blaine,MN,55434,US,"American, Bar Food, Bbq, Burger, Chicken, Chicken Strips, Comfort Food, Desserts, Dinner, Family Meals, Mexican, Pasta, Salad, Sandwich, Sandwiches, Seafood, Soup, Steak, Steakhouse, Traditional American, Wings",TRUE,TRUE,4.7,46
+Applebee's,Forest Lake,MN,55025,US,"American, Burgers, Chicken, Family Meals, Salads, Sandwiches, Wings",TRUE,TRUE,4.5,4211
+Applebee's,New Hope,MN,55428,US,"American, BBQ, Bar Food, Bbq, Breakfast, Burger, Chicken, Chicken Strips, Comfort Food, Desserts, Dinner, Family Meals, Mexican, Pasta, Salad, Sandwich, Sandwiches, Seafood, Soup, Southern, Steak, Steakhouse, Traditional American, Wings",TRUE,TRUE,4.1,44
+Applebee's,Port Charlotte,FL,33983,US,"American, Bar Food, Bbq, Burger, Chicken, Chicken Strips, Comfort Food, Desserts, Dinner, Family Meals, Pasta, Salad, Sandwich, Sandwiches, Soup, Steak, Traditional American, Wings",TRUE,TRUE,4.2,135
+Applebee's,Bradenton,FL,34208,US,"American, Burgers, Comfort Food, Family Friendly, Healthy, Pasta, Salads, Sandwiches, Steak, Wings",TRUE,TRUE,4.3,54
+Arby's,Columbia,MO,65203,US,"American, Burgers, Chicken, Desserts, Fast Food, Kids Friendly, Sandwich, Sandwiches, Wraps",TRUE,TRUE,3.2,143
+Arby's,Milwaukee,WI,53217,US,"Fast Food, National Brand, Sandwiches, Shakes, Subs & Sandwiches",TRUE,TRUE,4,115
+Arby's,Mcmurray,PA,15317,US,"American, Burgers, Chicken, Desserts, Fast Food, Kids Friendly, Sandwich, Wraps",TRUE,TRUE,3.8,22
+Are You Hungry,Miami,FL,33138,US,"American, Burgers, Fast Food, Hamburgers, Sandwiches",TRUE,TRUE,2.2,56
+Are You Hungry,Miami,FL,33138,US,"American, Burgers, Fast Food, Hamburgers, Sandwiches",TRUE,TRUE,2.2,56
+Arepas Caribbean food,Lafayette,CO,80026,US,"Caribbean, Latin American, Sandwiches, Seafood",TRUE,TRUE,1,1
+Asahi Bakery,Phoenix,AZ,85016,US,"American, Bakery, Cupcakes, Dessert, Sweets",FALSE,TRUE,1,1
+Atlas Cafe,New York,NY,10003,US,"American, Breakfast, Coffee And Tea, Dessert, Dinner, Gluten Free Pizza, Gluten-Free, Healthy, Healthy Pizza, Italian, Lunch Specials, Organic, Pasta, Pizza, Soup, Vegan Pizza, Veggie Pizza",FALSE,TRUE,2,1285
+Atlas Cafe,New York,NY,10003,US,"American, Breakfast, Coffee And Tea, Dessert, Dinner, Gluten Free Pizza, Gluten-Free, Healthy, Healthy Pizza, Italian, Lunch Specials, Organic, Pasta, Pizza, Soup, Vegan Pizza, Veggie Pizza",FALSE,TRUE,2,1285
+Atlas Cafe,New York,NY,10003,US,"American, Breakfast, Coffee And Tea, Dessert, Dinner, Gluten Free Pizza, Gluten-Free, Healthy, Healthy Pizza, Italian, Lunch Specials, Organic, Pasta, Pizza, Soup, Vegan Pizza, Veggie Pizza",FALSE,TRUE,2,1285
+Atlixco bakery,Staten Island,NY,10301,US,"Bakeries, Bakery, Bodega, Breakfast, Burritos, Deli, Mexican, Salads, Soup, Tacos, Tortas",TRUE,TRUE,3.3,10
+BabyCake's Bakery,Nashville-Davidson,TN,37206,US,"American, Breakfast And Brunch, Desserts",TRUE,TRUE,2.3,27
+BabyCake's Bakery,Nashville-Davidson,TN,37206,US,"American, Breakfast And Brunch, Desserts",TRUE,TRUE,2.3,27
+Bacci Pizzeria,Bensenville,IL,60106,US,"Dinner, Lunch, Pasta, Pizza, Salads, Sandwiches, Wraps",TRUE,TRUE,4,500
+Bacon Me Crazy ND,Bismarck,ND,58503,US,Fast Food,FALSE,TRUE,2,1
+Bacon Me Crazy ND,Bismarck,ND,58503,US,Fast Food,FALSE,TRUE,2,1
+Badass Steakhouse Burgers,Montclair,CA,91763,US,"American, Burgers, Dinner, Hamburgers, Sandwiches",TRUE,TRUE,2.7,15
+Basics Co-Op Cafe & Grocery,Janesville,WI,53545,US,"American Food, Breakfast, Coffee & Tea, Deli, Grocery, Healthy, Healthy Food, Subs & Sandwiches, Vegan, Vegetarian",TRUE,TRUE,4.5,94
+Baskin-Robbins,Pequannock Township,NJ,7444,US,"Dessert, Desserts, Frozen Yogurt, Ice Cream, Milk Shakes",FALSE,TRUE,2.5,2
+Bawarchi Biryani's,Louisville,CO,80027,US,"Dinner, Family Meals, Indian, Lunch",TRUE,TRUE,3.5,144
+Beef 'o' Brady's - Kingsport Tn,Kingsport,TN,37660,US,"American, Burger, Burgers, Chicken, Desserts, Salad, Salads, Sandwich, Sandwiches, Seafood, Tacos, Wings, Wraps",TRUE,TRUE,4.5,548
+Best Food Market,Richmond,VA,23222,US,"American, Chicken, Dinner, Grocery, Hamburgers, Lunch, Pizza, Potato, Sandwiches, Wings",TRUE,TRUE,1.8,4
+Better Burger - Impossible Veggie Burgers,Acworth,GA,30102,US,"Alcohol, American, Burgers, Chicken, Fast Food, Hamburgers, Hot Dogs, Sandwiches",TRUE,TRUE,3.4,48
+Big Deal Burger,Pensacola,FL,32504,US,"American, Burgers, Sandwiches",TRUE,TRUE,2.2,16
+Big Deal Burger,Pensacola,FL,32504,US,"American, Burgers, Sandwiches",TRUE,TRUE,2.2,16
+Big Deal Burger,Centennial,CO,80112,US,"American, Burgers, Chicken, Comfort Food, Dessert, Dinner, Family Meals, Fast Food, Fries, Gastropubs, Healthy, Keto, Lunch, Sandwiches, Vegetarian",TRUE,TRUE,3.1,35
+Big Deal Burger,New Orleans,LA,70123,US,"American, American (Traditional), Bad *Ss Burgers, Big Deal Burgers, Burgers, Drinks And Desserts, Kids Menu, Not Burgers, Sandwiches, Sides",TRUE,TRUE,1,5
+Big Deal Burger,Centennial,CO,80112,US,"American, Burgers, Chicken, Comfort Food, Dessert, Dinner, Family Meals, Fast Food, Fries, Gastropubs, Healthy, Keto, Lunch, Sandwiches, Vegetarian",TRUE,TRUE,3.1,35
+Big G's Pizza & Wings,Greenville,SC,29605,US,"Calzones, Pizza, Salads",TRUE,TRUE,2.5,10
+Big G's Pizza & Wings,Greenville,SC,29605,US,"Calzones, Pizza, Salads",TRUE,TRUE,2.5,10
+Big Pi Pizza Co.,San Antonio,TX,78229,US,"American, Fried Foods, Halal, Italian, Pasta, Pizza, Wings",TRUE,TRUE,2.7,25
+Bikanervala,South Brunswick Township,NJ,8824,US,"Dessert, Soup",FALSE,TRUE,2,48
+Birria Hands,Tallahassee,FL,32303,US,"American, Mexican, Tacos",TRUE,TRUE,2.7,25
+Biryani Factory,Hayward,CA,94541,US,"Chicken, Diner, Fast Food, Indian, Indian Curry, Pakistani, Vegetarian",FALSE,TRUE,2.9,22
+Bliss Vape Lounge,Fort Myers,FL,33901,US,"American, Cajun/Creole, Chicken, Fast Food, Ribs, Taco, Wings",TRUE,TRUE,2,1
+Bob The Baker,Miami Gardens,FL,33055,US,"American, Bakery, Coffee, Cuban, Dessert, Latin American, Pastries, Sandwiches",FALSE,TRUE,2.6,5
+Boba Bae,Ashwaubenon,WI,54304,US,"American, Asian Food, Bubble Tea, Coffee & Tea, Dessert",TRUE,TRUE,4,88
+Bojangles,Wilson,NC,27896,US,"Chicken Strips, Fast Food, Fried Chicken",FALSE,TRUE,3.8,26
+Bombay Grill,Seattle,WA,98168,US,"Curry, Dinner, Greek, Indian, Lunch Specials, Mediterranean, Middle Eastern, Pizza, Salads, Seafood, Soup, Vegetarian",FALSE,TRUE,2,206
+Bombay Grill,Seattle,WA,98168,US,"Curry, Dinner, Greek, Indian, Lunch Specials, Mediterranean, Middle Eastern, Pizza, Salads, Seafood, Soup, Vegetarian",FALSE,TRUE,2,206
+Bombay Grill,Seattle,WA,98168,US,"Curry, Dinner, Greek, Indian, Lunch Specials, Mediterranean, Middle Eastern, Pizza, Salads, Seafood, Soup, Vegetarian",FALSE,TRUE,2,206
+Bombay Grill,Redmond,WA,98052,US,"Curry, Dinner, Indian, Lunch Specials, Salads, Seafood, Vegetarian",FALSE,TRUE,2,154
+Bonfires Bar And Grill,Oviedo,FL,32765,US,"American, Bbq, Dinner, Lunch, Wings",TRUE,TRUE,2,129
+Bonzouti,Boynton Beach,FL,33435,US,Caribbean,TRUE,TRUE,3.6,28
+Bosscat Breakfast,Broomfield,CO,80021,US,"Alcohol, Breakfast, Coffee, Healthy, Sweets, Vegan, Vegetarian",TRUE,TRUE,2.7,3
+Bp Restaurant,Philadelphia,PA,19139,US,"American, Chicken Wings, Hamburgers, Salads, Wings",TRUE,TRUE,2,2
+Brass Ring Bar & Restaurant - 701 E Washington Ave Ste 104,Madison,WI,53703,US,"American, American Food, Bar/Pub Food, Burgers, Sandwiches, Subs & Sandwiches",TRUE,TRUE,3.6,51
+Breakfast Beauties,Tacoma,WA,98409,US,"Bagels, Breakfast And Brunch, Sandwiches",TRUE,TRUE,2.9,15
+Breakfast Beauties,Aurora,CO,80012,US,"Alcohol, American, Bacon Egg & Cheese, Bagels, Breakfast, Breakfast & Brunch, Breakfast And Brunch, Burgers, Comfort Food, Dessert, Desserts, Fast Food, Healthy, Mexican, Sandwiches, Sausage",TRUE,TRUE,3.2,79
+Breakfast Beauties,Pittsburgh,PA,15222,US,"Alcohol, American, Breakfast, Breakfast And Brunch, Breakfast Burrito, Burritos, Cafe, Comfort Food",FALSE,TRUE,3.2,29
+Brooklyn Pizza,North Miami Beach,FL,33162,US,"American, Dessert, Hamburgers, Pasta, Pizza, Subs",FALSE,TRUE,2,196
+Brooklyn Pizza,North Miami Beach,FL,33162,US,"American, Dessert, Hamburgers, Pasta, Pizza, Subs",FALSE,TRUE,2,196
+Bubba Gump Shrimp Co,Biloxi,MS,39530,US,"American, Breakfast, Burger, Cajun/Creole, Chicken, Desserts, Gluten-Free, Pasta, Salad, Salads, Sandwiches, Seafood, Seafood, Soup, Southern, Steakhouse",TRUE,TRUE,3,63
+Bubba's Roadhouse & Saloon,Cape Coral,FL,33991,US,"American, BBQ, Burger, Burgers, Chicken, Desserts, Family Friendly, Salad, Sandwiches, Southern, Steakhouse",FALSE,TRUE,3.7,30
+Buddy V's Cake Slice,Tampa,FL,33635,US,"Bakery, Cake, Cake Shop, Cakes, Dessert, Desserts, Pastries",TRUE,TRUE,4.4,22
+Buddy V's Cake Slice,Cherry Hill,NJ,8002,US,"Bakeries, Bakery, Cake Shop, Cakes, Chocolates, Dessert, Desserts, Pastry, Sweets",TRUE,TRUE,3.7,20
+Buffalo Wild Wings,Dallas,TX,75219,US,"Burgers, Chicken, Dinner, Hamburgers, Lunch Specials, Sandwiches, Wings",TRUE,TRUE,2.2,1860
+Buffalo Wild Wings,Eau Claire,WI,54701,US,"American Food, Bar/Pub Food, Burgers, Chicken, Comfort Food, Dinner, Family Friendly, Hamburgers, Lunch, Sandwiches, Wings",TRUE,TRUE,2.7,547
+Buffalo Wild Wings,Newburgh,NY,12550,US,"American, Chicken, Family Friendly, Fast Food, Wings",TRUE,TRUE,3.7,94
+Buffalo Wings Zone,New York,NY,10036,US,"American, Chicken, Dinner, Lunch, Salads, Sandwiches, Wings",FALSE,TRUE,2,52
+Burger Co.,Tempe,AZ,85281,US,"American, Bad *Ss Burgers, Big Deal Burgers, Burgers, Chicken, Comfort Food, Dessert, Dinner, Drinks & Desserts, Family Meals, Fast Food, Fries, Gastropubs, Hamburgers, Healthy, Keto, Kids Menu, Lunch, Not Burgers, Sandwiches, Sides, Vegetarian",FALSE,TRUE,4.2,21
+Burger King,Manitowoc,WI,54220,US,"American, Burger, Burgers, Family Meals, Fast Food, Subs & Sandwiches",TRUE,TRUE,2.4,42
+Burger King,Greensboro,NC,27403,US,"American, Burger, Fast Food",TRUE,TRUE,3.2,26
+Burger King,Sandy,OR,97055,US,"American, Burger, Family Meals, Fast Food",TRUE,TRUE,3.7,28
+Burger King,Eau Claire,WI,54703,US,"American, American Food, Burger, Burgers, Family Meals, Fast Food",TRUE,TRUE,2.6,6
+Burger King,Weston,WI,54476,US,"American, Burger, Burgers, Family Meals, Fast Food, Subs & Sandwiches",TRUE,TRUE,2.1,31
+Burger King,Sebring,FL,33870,US,"American, Burger, Fast Food",TRUE,TRUE,3.5,28
+Burger King,Phoenix,AZ,85033,US,"American, Burger, Fast Food",TRUE,TRUE,3.8,62
+Burger King,Sparks,NV,89441,US,"American, Burger, Dessert, Dinner, Family Meals, Fast Food, Hamburgers, Lunch, Sandwiches",TRUE,TRUE,3.4,75
+Burger King,Bellevue,NE,68005,US,"American, Burger, Fast Food",TRUE,TRUE,3.2,34
+Burger King,Memphis,TN,38115,US,"American, Burger, Fast Food",TRUE,TRUE,3.6,108
+Burger Slob,Jonesboro,GA,30236,US,"Alcohol, American, Burgers, Chicken, Dessert, Desserts, Hamburgers, Sandwich, Sandwiches, Wings",TRUE,TRUE,2.8,43
+Byblos,Philadelphia,PA,19103,US,"Arabian, Chicken, Dinner, Free Delivery, Greek Food, Late Night Food, Mediterranean Food, Middle Eastern",FALSE,TRUE,1.5,4
+Canterbury Ale House,Seattle,WA,98112,US,"American, Breakfast, Burgers, Dessert, Dinner, Lunch, Mexican Food, Pickup, Sandwich, Sandwiches, Subs & Sandwiches, Takeout",FALSE,TRUE,4,168
+Captain D's,Union Park,FL,32817,US,"American, Burgers, Fast Food, Group Friendly",TRUE,TRUE,4.3,58
+Captain D's,Statesboro,GA,30458,US,"American, Family Meals, Fast Food, Fish And Chips, Seafood",TRUE,TRUE,3.7,44
+Caribbean Cafe,Saint Petersburg,FL,33713,US,"American, Cuban, Latin American, Salad, Sandwiches",TRUE,TRUE,4.8,24
+Carne En Vara En Orlando Fl,Orlando,FL,32839,US,"American, Barbeque, Bbq, Burgers, Hamburgers",FALSE,TRUE,3.8,5
+Casa Di Pasta,Brooklyn,NY,11215,US,"American, Breakfast And Brunch, Dinner, Italian, Lunch, Pasta, Sandwiches",TRUE,TRUE,2,76
+Casa Mexicana Restaurant Inc,Tampa,FL,33619,US,"Breakfast, Colombian, Diner, Fast Food, Latin American, Mexican, Parrilla, Sandwich, Sandwiches, Taco, Tacos",TRUE,TRUE,4.5,11
+Cedar Land,Charlotte,NC,28205,US,"Grocery Items, Halal, Lebanese, Mediterranean, Middle Eastern",TRUE,TRUE,3.9,95
+Cedar Land,Charlotte,NC,28205,US,"Grocery Items, Halal, Lebanese, Mediterranean, Middle Eastern",TRUE,TRUE,3.9,95
+Cheeky's Cheesesteaks,Pittsburgh,PA,15224,US,"American, American (New), Burgers, Cheesesteaks, Desserts, Sandwiches",FALSE,TRUE,3.2,4
+Cherry's Food Truck,Miami Gardens,FL,33169,US,"American, Comfort Food, Dinner, Seafood, Soul Food, Wings",TRUE,TRUE,3.7,127
+Chevron Extramile,Rancho Cordova,CA,95670,US,"Alcohol, Beer, Wine & Spirits, Candy, Candy Stores, Cold Beers, Convenience, Drinks, Everyday Essentials, Grocery, Grocery Items, Home & Personal Care, Home &Amp; Personal Care, Ice Cream, Juice, Pharmacy, Snacks, Wine",TRUE,TRUE,4.2,58
+Chi Chop & Kung Fu Tea,Sarasota,FL,34243,US,"Asian, Bubble Tea, Coffee And Tea, Ramen, Smoothies And Juices, Soup",TRUE,TRUE,5,137
+Chicken And Waffle At Kinfolk,Fort Pierce,FL,34951,US,"American, Bbq, Breakfast, Burgers, Chicken, Comfort Food, Dessert, Desserts, Fried Chicken, Sandwiches, Seafood, Soul Food, Southern, Waffles, Wings",TRUE,TRUE,4.2,200
+Chicken And Waffle At Kinfolk,Fort Pierce,FL,34951,US,"American, Bbq, Breakfast, Burgers, Chicken, Comfort Food, Dessert, Desserts, Fried Chicken, Sandwiches, Seafood, Soul Food, Southern, Waffles, Wings",TRUE,TRUE,4.2,200
+Chicken Palace,Milwaukee,WI,53204,US,"Burritos, Chicken, Mexican, Mexican Food, Tacos, Wings",TRUE,TRUE,1.7,11
+Chicken Sammy's,Avondale,AZ,85392,US,"American, Burgers, Chicken, Chicken Tenders, Dinner, Fried Chicken, Lunch, Salads, Sandwich, Sandwiches",TRUE,TRUE,4.2,37
+Chicken Wing Co.,San Francisco,CA,94102,US,"American, Bar Food, Chicken, Desserts, Fast Food, Fried Chicken, Pizza, Salads, Sandwich, Sandwiches, Seafood, Wings",TRUE,TRUE,2.8,222
+China Chen,Princeton,NJ,8540,US,"Asian, Chinese, Noodles, Soup",TRUE,TRUE,3.6,10
+Chinese Bites,Irving,TX,75039,US,"Asian, Asian Fusion, Chinese, Indian, Vegetarian",TRUE,TRUE,1.8,17
+Chinese Bites,Irving,TX,75039,US,"Asian, Asian Fusion, Chinese, Indian, Vegetarian",TRUE,TRUE,1.8,17
+Christine's Bar Wausau,Wausau,WI,54401,US,"American, Asian Food, Burgers, Sandwiches, Wings",FALSE,TRUE,3.5,40
+Chuck's Cheesesteaks,Fort Mill,SC,29708,US,"Alcohol, American, Cheesesteaks, Comfort Food, Deli, Fast Food, Healthy, Kids Friendly, Lunch, Sandwich, Sandwiches",TRUE,TRUE,2.3,171
+Chuck's Cheesesteaks,Fort Mill,SC,29708,US,"Alcohol, American, Cheesesteaks, Comfort Food, Deli, Fast Food, Healthy, Kids Friendly, Lunch, Sandwich, Sandwiches",TRUE,TRUE,2.3,171
+Chuck's Cheesesteaks,Fort Mill,SC,29708,US,"Alcohol, American, Cheesesteaks, Comfort Food, Deli, Fast Food, Healthy, Kids Friendly, Lunch, Sandwich, Sandwiches",TRUE,TRUE,2.3,171
+Church's Texas Chicken,Americus,GA,31709,US,"American, Chicken, Chicken Tenders, Chicken Wings, Family Friendly, Family Meals, Fast Food, Fried Chicken, Sandwiches, Southern, Wings",TRUE,TRUE,3.8,85
+Church's Texas Chicken,Mcallen,TX,78504,US,"American, Chicken, Dinner, Family Friendly, Family Meals, Fast Food, Fried Chicken, Lunch, Sandwiches, Southern, Wings",TRUE,TRUE,5,137
+Church's Texas Chicken,Mcallen,TX,78504,US,"American, Chicken, Dinner, Family Friendly, Family Meals, Fast Food, Fried Chicken, Lunch, Sandwiches, Southern, Wings",TRUE,TRUE,5,137
+Church's Texas Chicken,Memphis,TN,38106,US,"American, Chicken, Dinner, Family Friendly, Family Meals, Fast Food, Fried Chicken, Lunch, Sandwiches, Southern, Wings",TRUE,TRUE,2.3,75
+Church's Texas Chicken,New Iberia,LA,70560,US," Chicken, American, Chicken, Chicken Tenders, Chicken Wings, Comfort Food, Family Friendly, Family Meals, Fast Food, Fried Chicken, Sandwiches, Southern, Wings",TRUE,TRUE,3.7,245
+Chuy's,Gainesville,FL,32608,US,"Chicken, Desserts, Group Friendly, Mexican, Salad, Seafood, Soup, Taco, Tacos, Tex Mex, Vegan",FALSE,TRUE,4.6,92
+Cicis Pizza,Alexandria,LA,71301,US,"American, Dessert, Healthy Pizza, Pan Pizza, Pasta, Pizza, Pizza, Salads, Stuffed Pizza, Veggie Pizza, Wings",TRUE,TRUE,3.4,10
+Cindy B Goods,Gainesville,FL,32601,US,"American, Bakery, Bowls, Calzones, Chicken, Coffee, Comfort Food, Desserts, Italian, Pasta, Pastry, Salad, Salads, Sandwiches, Soup, Southern, Specialty",TRUE,TRUE,3,2
+Citra A Fresh Cafe,Boston,MA,2115,US,"American, Bakery, Beverages, Bowls & Burritos, Breakfast, Breakfast And Brunch, Breakfast Oatmeal, Catering, Deli, Espresso Drinks, Extra Topping, Grab & Go, Healthy, Lunch, Lunch Specials, Menu, Misc., Panini, Pickup, Salads, Sandwich, Sandwiches, Snacks, Soup, Takeout, Wraps",TRUE,TRUE,2.7,20
+Clean Eatz,Jacksonville,FL,32246,US,"American, Healthy, Salad, Sandwiches, Vegetarian Friendly",TRUE,TRUE,4.1,10
+Cluck U Chicken,Hoboken,NJ,7030,US,"American, Bowls, Chicken, Dinner, Hamburgers, Late Night, Lunch, Lunch Specials, Wings, Wraps",TRUE,TRUE,2,58
+Cluck U Chicken,Hoboken,NJ,7030,US,"American, Bowls, Chicken, Dinner, Hamburgers, Late Night, Lunch, Lunch Specials, Wings, Wraps",TRUE,TRUE,2,58
+Co-Op Ramen,Bentonville,AR,72712,US,"American, Burgers, Japanese, Ramen, Sandwiches, Soup",TRUE,TRUE,4.7,213
+Continuus Smiles,Philadelphia,PA,19121,US,"Allergy Friendly, American, Burgers, Comfort Food, Wings",TRUE,TRUE,2.5,8
+Copacabana Acai,Orlando,FL,32804,US,"Acai, Acai Bowls, Alcohol, American, Bowls, Breakfast And Brunch, Desserts, Healthy, Juice And Smoothies",TRUE,TRUE,2.8,18
+Copper Top Restaurant,Madison,WI,53711,US,"American, Breakfast, Breakfast And Brunch, Burgers, Italian Food, Pasta, Sandwiches, Subs & Sandwiches",FALSE,TRUE,4,121
+Cosmic Wings,Independence,OH,44131,US,"American, Bar Food, Chicken, Comfort Food, Exclusive To Eats, Family Meals, Fast Food, Only Available Here, Wings",FALSE,TRUE,3.4,19
+Cosmic Wings,Salisbury,MD,21801,US,"American, Bar Food, Boneless Wings, Cheetos, Chicken, Chicken Wings, Comfort Food, Exclusive To Eats, Family Meals, Fast Food, Fries, Only Available Here, Wings",FALSE,TRUE,3.4,8
+Country Kitchen Restaurant - Moreno Valley,Moreno Valley,CA,92553,US,"American, American (Traditional), Breakfast And Brunch, Burgers, Healthy, Salads, Sandwiches, Side Vegetables",TRUE,TRUE,3.4,5
+Cov Live,Covington,KY,41011,US,"American, Burgers, Sandwiches",TRUE,TRUE,2.9,69
+Cov Live,Covington,KY,41011,US,"American, Burgers, Sandwiches",TRUE,TRUE,2.9,69
+Cracker Barrel Old Country Store,Houston,TX,77090,US,"American, Breakfast, Burgers, Chicken, Coffee, Desserts, Family Meals, Salad, Sandwiches",TRUE,TRUE,4.1,200
+Crazy Cactus,Olive Branch,MS,38654,US,"Latin American, Mexican, New Mexican",TRUE,TRUE,4.1,27
+Culver's,St. Petersburg,FL,33702,US,"American, Burger, Burgers, Comfort Food, Desserts, Fast Food, Ice Cream &Amp; Frozen Yogurt, Kids Friendly, Sandwich",FALSE,TRUE,4.6,200
+Culver's,St. Petersburg,FL,33713,US,"American, Burger, Burgers, Chicken, Comfort Food, Desserts, Fast Food, Ice Cream &Amp; Frozen Yogurt, Kids Friendly, Salad, Sandwich, Sandwiches",FALSE,TRUE,4.7,200
+Cupid's Wings,Bakersfield,CA,93301,US,"Alcohol, American, Chicken Tenders, Comfort Food, Wings",TRUE,TRUE,2.3,7
+Cupid's Wings,Altamonte Springs,FL,32701,US,"Alcohol, American, Chicken, Chicken Tenders, Chicken Wings, Fast Food, Fried Chicken, Sandwiches, Wings",TRUE,TRUE,3.6,23
+Cupid's Wings,Jersey City,NJ,7306,US,"Alcohol, American, Chicken, Chicken Tenders, Chicken Wings, Comfort Food, Fast Food, Fried Chicken, Sandwiches, Wings",TRUE,TRUE,2.9,75
+D Jackson Bbq,Dallas,TX,75211,US,"Barbecue, Bbq, Caterers, Food Truck, Food Trucks, Pickup, Takeout",FALSE,TRUE,2.3,3
+Dabomb Sports Grill,Stonecrest,GA,30038,US,"Dinner, Grill, Salads, Sandwiches, Seafood, Wings",TRUE,TRUE,2,56
+Dabomb Sports Grill,Stonecrest,GA,30038,US,"Dinner, Grill, Salads, Sandwiches, Seafood, Wings",TRUE,TRUE,2,56
+Dabomb Sports Grill,Stonecrest,GA,30038,US,"Dinner, Grill, Salads, Sandwiches, Seafood, Wings",TRUE,TRUE,2,56
+Dabomb Sports Grill,Stonecrest,GA,30038,US,"Dinner, Grill, Salads, Sandwiches, Seafood, Wings",TRUE,TRUE,2,56
+Daddy Mac's Chicken,Dallas,TX,75211,US,"Barbeque, Chicken, Fast Food, Pickup, Soul Food, Takeout",FALSE,TRUE,3.8,358
+Daddy Rays Bbq,Angleton,TX,77515,US,"American, BBQ, Barbeque, Bbq, Burgers, Takeout",FALSE,TRUE,3.5,50
+Daddys Chicken N Waffles,San Francisco,CA,94102,US,"American, Breakfast, Breakfast And Brunch, Chicken, Comfort Food, Dessert, Dinner, Fast Food, Healthy, Waffles, Wings",TRUE,TRUE,3.8,122
+Dairy Queen,Bella Vista,AR,72714,US,"American, Burger, Chicken, Desserts, Fast Food, Hamburgers, Ice Cream, Ice Cream & Frozen Yogurt, Ice Cream &Amp; Frozen Yogurt, Salad, Sandwiches, Shakes",TRUE,TRUE,5,147
+Dairy Queen,Meridian,ID,83642,US,"American, Burgers, Chicken, Group Friendly, Ice Cream + Frozen Yogurt, Ice Cream And Frozen Yogurt",TRUE,TRUE,3.3,10
+Dairy Queen Grill & Chill,Tallahassee,FL,32312,US,"African, American, Burger, Burgers, Chicken, Desserts, Ice Cream + Frozen Yogurt, Ice Cream And Frozen Yogurt",TRUE,TRUE,4.9,28
+Dairyland Brew Pub,Appleton,WI,54911,US,"American, American Food, Bar/Pub Food, Burgers, Free Delivery, Pizza, Sandwiches, Subs & Sandwiches",TRUE,TRUE,3.4,133
+Dany's Pizza & Cake,Garden Grove,CA,92841,US,"Asian Food, Beverages, Cold Sub, Dessert, Grill, Healthy Pizza, Hot Sub, Italian, Monday Special, Neapolitan Pizza, Pasta, Pizza, Pizza - Giant, Pizza - Large, Pizza - Medium, Pizza - Small, Pizza - Xlarge, Pizza- Xlarge, Salads, Side Orders, Special, Specials, Specialty Calzones, Steak, Subs, Thin Crust Pizza, Veggie Pizza, Wings",TRUE,TRUE,4.2,12
+Deli Belli,Alhambra,CA,91801,US,"Alcohol, American, Deli, Healthy, Sandwiches",FALSE,TRUE,2,2
+Deli Belli,Alhambra,CA,91801,US,"Alcohol, American, Deli, Healthy, Sandwiches",FALSE,TRUE,2,2
+Deli Belli,Alhambra,CA,91801,US,"Alcohol, American, Deli, Healthy, Sandwiches",FALSE,TRUE,2,2
+DeliciousVillagenyc,Far Rockaway,NY,11691,US,"American, Asian Fusion, Jamaican",TRUE,TRUE,1.9,14
+DeliciousVillagenyc,Far Rockaway,NY,11691,US,"American, Asian Fusion, Jamaican",TRUE,TRUE,1.9,13
+Denny's,Kingman,AZ,86401,US,"American, Breakfast And Brunch, Coffee And Tea, Desserts, Dinner, Family Meals, Healthy, Salads, Sandwich, Steak",TRUE,TRUE,3.4,22
+DESI'S TREATS WILMINGTON,Arlington,TX,76011,US,"Asian, Indian, Vegetarian",TRUE,TRUE,1.6,14
+Desserts To-Go,Oklahoma City,OK,73108,US,"Breakfast, Sandwich, burger",FALSE,TRUE,2,1
+Deviled Soul Food,Philadelphia,PA,19123,US,"Alcohol, Comfort Food, Soul Food, Southern",TRUE,TRUE,2.7,87
+Di Primodine Pizzeria,San Antonio,TX,78213,US,"Desserts, Fried Foods, Halal, Italian, Pasta, Pizza, Salads, Wings",TRUE,TRUE,2.7,32
+Dickey's Barbecue Pit,Perrysburg Township,OH,43551,US,"American, Bbq, Chicken",TRUE,TRUE,3.4,15
+Dickey's Barbecue Pit,Metairie,LA,70002,US,"American, American (Traditional), American Food, BBQ, Barbecue, Barbeque, Bbq, Beef, Bread, Catering, Chicken, Chicken Wings, Comfort Food, Cue Creations, Dessert, Desserts, Drinks, Everyday - Bakers & ‚ÄòCue Creations, Everyday - Deals, Everyday - Desserts, Everyday - Drinks, Everyday - Fall Of The Bone Ribs, Everyday - Kid's Meals, Everyday - Local Favorites, Everyday - Meats A La Carte, Everyday - Packs, Everyday - Pit Smoked Wings, Everyday - Plates, Everyday - Sandwiches, Everyday - Sauces & Extras, Everyday - Sides, Extras & Add-Ons, Fall Off The Bone Ribs, Family Meals, Giant Bakers, Keto, Kid's Meal, Limited Time Only, Local Favorites, Meats By The Lb, Packs, Pickup, Pit Smoked Wings, Plates, Pork, Ribs, Sandwich, Sandwiches, Sides, Southern, Southern Food, Takeout, Wings",TRUE,TRUE,3.9,2130
+Dickey's Barbecue Pit,Grand Prairie,TX,75050,US,"American, American (Traditional), Barbecue, Bbq, Bread, Burgers, Chicken Wings, Cue Creations, Desserts, Everyday - Bakers & ‚ÄòCue Creations, Everyday - Deals, Everyday - Desserts, Everyday - Drinks, Everyday - Extras & Add-Ons, Everyday - Fall Of The Bone Ribs, Everyday - Fall Off The Bone Ribs, Everyday - Kid's Meal, Everyday - Kid's Meals, Everyday - Local Favorites, Everyday - Meats A La Carte, Everyday - Meats √Ä La Carte, Everyday - Packs, Everyday - Pit Smoked Wings, Everyday - Plates, Everyday - Sandwiches, Everyday - Sauces & Extras, Everyday - Sides, Fall Off The Bone Ribs, Giant Bakers, Happy Hour, Limited Time Only, Lunch Specials, Meats By The Lb, Packs, Pit Smoked Wings, Plates, Sandwiches, Sides",FALSE,TRUE,2,8
+Dickey's Barbecue Pit,Fairfax,VA,22033,US,"American, Bbq, Chicken",TRUE,TRUE,2.7,27
+Dickey's Barbecue Pit Barbecue Pit,Pembroke Pines,FL,33024,US,"American, Bbq, Chicken",TRUE,TRUE,2.6,17
+Diggers Catch Seafood,East Providence,RI,2914,US,"American, Bowls, Seafood, Soup, Southern",TRUE,TRUE,2.9,42
+Dirty Burger,New York,NY,10011,US,"American, Burger, Burgers, Fast Food, Vegan Friendly",TRUE,TRUE,3.3,19
+Dixie Queen,Memphis,TN,38128,US,"American, Burgers, Dessert, Fast Food, Hamburgers, Hot Dogs, Sandwiches, Wings",TRUE,TRUE,3.7,150
+Don Calzone,San Antonio,TX,78228,US,"American, Halal, Italian, Pizza",TRUE,TRUE,1.9,31
+"Don Tequilas - Columbia, Sc",Columbia,SC,29212,US,"Burritos, Chicken, Mexican, Salad, Seafood, Southern, Steak, Taco, Tacos, Tex-Mex",TRUE,TRUE,4.3,443
+Donatos Pizza,Temecula,CA,92591,US,"American, American (New), Burger, Burgers, Chicken, Comfort Food, Dessert, Dinner, Family Meals, Fast Food, Italian, Lunch, Pasta, Pizza, Salad, Salads, Sandwiches, Soup, Vegan Friendly, Vegetarian Friendly, Wings",TRUE,TRUE,3.1,24
+Dosirak,Stevens Point,WI,54481,US,"Chicken, Korean, Korean Food, Noodles",TRUE,TRUE,4,23
+Downtowner Woodfire Grill,Saint Paul,MN,55102,US,"American, Breakfast, Burger, Burgers, Chicken, Coffee, Desserts, Greek, Grocery, Latin, Mediterranean, Pizza, Salad, Sandwiches, Seafood, Soup, Southern, Steakhouse",TRUE,TRUE,4.7,29
+Dr Cool Juice,Palm Beach Gardens,FL,33410,US,"American, Breakfast And Brunch, Sandwiches, Smoothie, Tacos",TRUE,TRUE,2,1
+Dr Cool Juice,Palm Beach Gardens,FL,33410,US,"American, Breakfast And Brunch, Sandwiches, Smoothie, Tacos",TRUE,TRUE,2,1
+Dr Cool Juice,Palm Beach Gardens,FL,33410,US,"American, Breakfast And Brunch, Sandwiches, Smoothie, Tacos",TRUE,TRUE,2,1
+Dublin Square Irish Pub & Eatery,La Crosse,WI,54601,US,"American, American Food, Bar/Pub Food, Burgers, Sandwiches, Subs & Sandwiches",FALSE,TRUE,4,506
+Due Focacceria,Saint Paul,MN,55105,US,"Bakery, Italian, Pasta, Salad, Sandwiches",TRUE,TRUE,4.8,90
+Dunkin',Trooper,PA,19403,US,"Breakfast And Brunch, Donuts",FALSE,TRUE,3.6,20
+Dunkin',Janesville,WI,53546,US,"Bakery Food, Breakfast, Breakfast And Brunch, Coffee & Tea, Dessert, Donuts, National Brand",FALSE,TRUE,2.4,41
+Dunkin',Philadelphia,PA,19140,US,"Bagels, Bakery, Breakfast, Breakfast &Amp; Brunch, Breakfast And Brunch, Cafe, Coffee And Tea, Donuts",FALSE,TRUE,2,66
+Dunkin',Janesville,WI,53546,US,"Bakery Food, Breakfast, Breakfast And Brunch, Coffee & Tea, Dessert, Donuts, National Brand",FALSE,TRUE,2.4,41
+Dunkin',Janesville,WI,53546,US,"Bakery Food, Breakfast, Breakfast And Brunch, Coffee & Tea, Dessert, Donuts, National Brand",FALSE,TRUE,2.4,41
+Dunkin',Carol Stream,IL,60188,US,"Bagels, Bakery, Breakfast, Breakfast And Brunch, Cafe, Coffee And Tea, Donuts",FALSE,TRUE,3.6,40
+Dylan Super Bodeguita Deli,Bronx,NY,10452,US,"Alcohol, Bodega, Breakfast, Deli, Dinner, Dominican, Healthy, Lunch, Mexican, Sandwiches, Vegetarian",TRUE,TRUE,2,86
+Dylan Super Bodeguita Deli,Bronx,NY,10452,US,"Alcohol, Bodega, Breakfast, Deli, Dinner, Dominican, Healthy, Lunch, Mexican, Sandwiches, Vegetarian",TRUE,TRUE,2,86
+Eastern Pearl,Amherst,NY,14221,US,"Chicken, Chinese, Chinese Food, Dinner, Lunch, Seafood",FALSE,TRUE,4.1,29
+Edison's Lab Restaurant,Fort Myers,FL,33901,US,"American, American (Traditional), New American, Pizza, Salads",TRUE,TRUE,2.9,7
+Eggs Up Grill,Greenville,SC,29615,US,"Bowls, Breakfast, Burger, Coffee, Salad, Salads, Sandwiches",TRUE,TRUE,5,190
+"Eggs Up Grill - Rock Hill, Sc",Rock Hill,SC,29732,US,"American, Breakfast, Breakfast And Brunch, Gluten-Free, Sandwiches",TRUE,TRUE,3.9,38
+El Guero Loco At Saddlebags,Savannah,GA,31401,US,"Barbeque, Desserts, Pickup, Pizza, Snacks, Tacos, Takeout, sports bars",TRUE,TRUE,3.1,20
+El Jefe Food Express,Scottsdale,AZ,85251,US,"Food Trucks, Latin American, Mexican, New Mexican, Tacos",TRUE,TRUE,2,1
+El Jefe Food Express,Scottsdale,AZ,85251,US,"Food Trucks, Latin American, Mexican, New Mexican, Tacos",TRUE,TRUE,2,1
+El Potro Lawrence 3333 Iowa Street,Lawrence,KS,66046,US,"Bar/Pub Food, Breakfast, Free Delivery, Mexican Food",TRUE,TRUE,4,201
+El Potro Lawrence 3333 Iowa Street,Lawrence,KS,66046,US,"Bar/Pub Food, Breakfast, Free Delivery, Mexican Food",TRUE,TRUE,4,201
+El Valle Verde,Cincinnati,OH,45205,US,"Burritos, Dessert, Kids Menu, Latin American, Mexican, Mexican Food, New Mexican, Seafood, Tacos, Vegetarian",TRUE,TRUE,2.4,5
+El Warike Peruvian Seafood,Bradenton,FL,34205,US,"Chicken, Dessert, Dinner, Healthy, Latin, Latin American, Lunch Specials, Peruvian, Salads, Seafood, Soup, Vegetarian",TRUE,TRUE,3,2
+Elixir Cuisine Of India,Seattle,WA,98125,US,"Asian, Chicken, Curry, Dinner, Healthy, Indian, Indian Cuisine, Lunch, Salads, Sandwiches, Seafood, Soup, Tandoori, Vegetarian",TRUE,TRUE,2.4,135
+Ember Smoked Bbq,Hamburg,PA,19526,US,"American, BBQ, Burgers, Chicken, Comfort Food, Pork, Ribs, Sandwiches, Steak",TRUE,TRUE,3.5,103
+Empanadas Monumental,The Bronx,NY,10472,US,"Dinner, Dominican, Empanadas, Latin American, Lunch, Sandwiches, Shakes, Smoothies And Juices",TRUE,TRUE,2,46
+Empanadas Monumental,The Bronx,NY,10472,US,"Dinner, Dominican, Empanadas, Latin American, Lunch, Sandwiches, Shakes, Smoothies And Juices",TRUE,TRUE,2,46
+Eola Wine Co,Orlando,FL,32801,US,"American, Breakfast, Lunch, Tapas, Tapas Bars, Wraps",FALSE,TRUE,3.7,11
+Erbert & Gerbert's,Oshkosh,WI,54901,US,"American, Deli, Free Delivery, Healthy Food, Sandwich, Soup, Subs & Sandwiches",TRUE,TRUE,2.8,182
+Eszter's Hungarian,Port Orange,FL,32127,US,"American, Burgers, Chicken, Sandwiches, Seafood, Wings",TRUE,TRUE,3.3,9
+Eureka Pizza,Fayetteville,AR,72701,US,"Desserts, Pizza, Wings",TRUE,TRUE,4,105
+Falafel Me,Austin,TX,78701,US,"Exclusive To Eats, Falafel, Greek, Mediterranean, Only Available Here",TRUE,TRUE,1,2
+Famous Greek Salads,Clearwater,FL,33761,US,"Greek, Healthy, Mediterranean, Salad, Salads",TRUE,TRUE,5,542
+Fehrenbacher's Pizza,Aventura,FL,33180,US,"Burgers, Pizza, Wings",TRUE,TRUE,1.9,19
+Firebelly Wings,Fort Wayne,IN,46808,US,"American, Chicken, Comfort Food, Dinner, Fast Food, Late Night, Lunch, Soul Food, Wings",TRUE,TRUE,2.8,34
+Firebelly Wings,Lancaster,PA,17603,US,"American, Barbecue, Chicken, Chicken Wings, Comfort Food, Dinner, Fast Food, Fried Chicken, Late Night, Lunch, Wings",TRUE,TRUE,2.5,2
+Firebelly Wings,Fort Wayne,IN,46808,US,"American, Chicken, Comfort Food, Dinner, Fast Food, Late Night, Lunch, Soul Food, Wings",TRUE,TRUE,2.8,34
+Firehouse Subs-MandariN-1,Jacksonville,FL,32257,US,"American, Deli, Desserts, Dinner, Group Friendly, Healthy, Lunch, Salad, Salads, Sandwich, Sandwiches, Soup, Subs",TRUE,TRUE,4.8,50
+Firehouse Subs-Old Field CrossinG-156,Jacksonville,FL,32223,US,"American, Desserts, Dinner, Healthy, Lunch, Salad, Salads, Sandwich, Sandwiches, Soup, Subs",TRUE,TRUE,4.7,60
+First Watch,Tampa,FL,33609,US,"American, Breakfast, Breakfast And Brunch, Desserts, Family Meals, Healthy, Juice And Smoothies, Salad, Sandwiches",TRUE,TRUE,4.7,114
+First Watch,Bradenton,FL,34203,US,"American, Bacon, Breakfast, Breakfast And Brunch, Coffee, Eggs, Family Meals",TRUE,TRUE,4.6,49
+Fishka,Teaneck,NJ,7666,US,"African, Chicken, Seafood",FALSE,TRUE,2.3,12
+Fishka,Teaneck,NJ,7666,US,"African, Chicken, Seafood",FALSE,TRUE,2.3,11
+Fishka,Teaneck,NJ,7666,US,"African, Chicken, Seafood",FALSE,TRUE,2.3,12
+Five Guys  Fl-124,Tampa,FL,33612,US,"American, Burger, Burgers",FALSE,TRUE,4.8,268
+Five Guys  Fl-1500,Fort Myers,FL,33907,US,"American, Burger, Burgers, Group Friendly",FALSE,TRUE,4.9,184
+Five Guys Ms- 488 3840 Promenade Parkway,D&#039;Lberville,MS,39540,US,"American, Burger, Burgers, Desserts, Fast Food, Sandwiches",FALSE,TRUE,4.7,100
+Food Symphony Restaurant,Harvey,LA,70058,US,"American, Black-Owned, Creole, European, Hamburgers, Modern European, Seafood, Soul Food",TRUE,TRUE,4.2,40
+Fox's Pizza Den,Johnson City,TN,37604,US,"Dessert, Hoagies, Pasta, Pizza, Salads, Sandwiches, Wings",TRUE,TRUE,4,357
+Frankie's Bistro,North Miami,FL,33161,US,"American, Italian, Pasta, Pizza, Seafood",FALSE,TRUE,2.6,138
+Franny's Family Restaurant & Pancake House,Stevens Point,WI,54482,US,"American, American Food, Breakfast, Breakfast And Brunch, Coffee & Tea, Dinner, Hamburgers, Sandwiches, Subs & Sandwiches, Wraps",TRUE,TRUE,4,3
+FREAKING GOOD PIZZA,Los Angeles,CA,91307,US,"Alcohol, American, Breakfast And Brunch, Chicken, Family Meals, Pizza, Sandwiches, Vegetarian Friendly",TRUE,TRUE,2,23
+Freaking Good Pizza,Tigard,OR,97223,US,"Alcohol, American, Chicken, Family Meals, Italian, Pizza, Vegetarian Friendly",TRUE,TRUE,3.3,84
+Freaking Good Pizza,Phoenix,AZ,85004,US,"Alcohol, Chicken, Comfort Food, Family Meals, Pizza, Vegetarian Friendly",FALSE,TRUE,1,1
+French Fry Or Die,Atlanta,GA,30310,US,"American, Beverages, Chicken, Comfort Food, Dessert, Fried Chicken, Fries, Kids Friendly, Wings",TRUE,TRUE,3.1,154
+Fried Chicken Crave - Union,Nashville,TN,37201,US,"American, Chicken, Comfort Food, Dessert, Desserts, Fast Food, Fried Chicken, Salads, Sandwiches, Soul Food, Wings",FALSE,TRUE,2.4,67
+Fried Chicken Crave - Union,Nashville,TN,37201,US,"American, Chicken, Comfort Food, Dessert, Desserts, Fast Food, Fried Chicken, Salads, Sandwiches, Soul Food, Wings",FALSE,TRUE,2.4,67
+Gaylyn's Diner,Leland,NC,28451,US,"American, Dinners",FALSE,TRUE,4.1,28
+George Webb,Waukesha,WI,53188,US,"American, Breakfast, Breakfast And Brunch, Burgers, Diner, Hamburgers, Sandwiches, Snacks",TRUE,TRUE,4.1,60
+Get Dressed! Salads,Carmichael,CA,95608,US,"American, Comfort Food, Dinner, Healthy, Lunch, Salads, Vegetarian",TRUE,TRUE,2,7
+Get Dressed! Salads,Carmichael,CA,95608,US,"American, Comfort Food, Dinner, Healthy, Lunch, Salads, Vegetarian",TRUE,TRUE,2,7
+Gijos International Cuisine,Frederick,MD,21702,US,"Beverages, Chef's Specials, Colombian, Colombian Menu, House Specials, Lunch Specials / Corrientazos, Sandwiches, Subs",FALSE,TRUE,2.4,5
+Gina's Stonefired Italian,Franklin,TN,37064,US,"Comfort Food, Italian, Pasta, Pizza, Salad, Sandwiches, Wings",TRUE,TRUE,3.9,20
+Ginger Bay Cafe,Hollywood,FL,33020,US,"Burgers, Caribbean, Dinner, Exclusive To Eats, Family Meals, Jamaican, Lunch Specials, Only Available Here",TRUE,TRUE,2,75
+Gingers Popcorn,Hot Springs,AR,71901,US,"American, Coffee, Desserts, Popcorn",TRUE,TRUE,3,3
+Giveness Caribbean,Delray Beach,FL,33445,US,"American, Beverages, Breakfast, Caribbean, Latin American, Lunch (Large), Lunch (Small), Other Lunch, Seafood",FALSE,TRUE,2.7,19
+Glory Days Grill Of Odessa (Veterans Expressway),Lutz,FL,33558,US,"Alcohol, American, Burgers, Family Friendly, New American, Wings",TRUE,TRUE,4.7,156
+Golden Chick,Dallas,TX,75217,US,"Bbq, Family Friendly, Family Meals, Fast Food, Southern",FALSE,TRUE,3.7,116
+Golden Chick Grand Prairie S Hwy 360,Grand Prairie,TX,75052,US,"American, Chicken, Comfort Food, Family Friendly, Family Meals, Fast Food, Fried Chicken, Healthy, Salads",TRUE,TRUE,3.9,60
+Golden Fingers,Minneapolis,MN,55404,US,"Black-Owned, Dinner, Fried Chicken, Greek, Greek Food, Indian, Indian Food, Lunch, Mediterranean, Mediterranean Food, Middle Eastern Food, Salads, Sandwiches, Subs & Sandwiches, Wings",TRUE,TRUE,3,212
+Gorditas Patty's Mexican Restaurant,Little Rock,AR,72209,US,"Breakfast, Burritos, Desserts, Fast Food, Kids Menu, Latin, Latin American, Mexican, New Mexican, Sandwiches, Seafood, Taco, Tacos",TRUE,TRUE,4.5,190
+Grandma's Soul Food,Richmond,VA,23234,US,"American, Burgers, Chicken, Dessert, Dinner, Kids Menu, Sandwiches, Seafood, Soul Food",TRUE,TRUE,2,5
+Greasy Goods,Albuquerque,NM,87108,US,"Alcohol, American, Burgers, Sandwiches",FALSE,TRUE,2.7,18
+Greasy Goods,Whittier,CA,90604,US,"American, Burgers, Sandwich",FALSE,TRUE,2,7
+Great American Cookies,Panama City Beach,FL,32407,US,"American, Bakery, Cakes, Dessert, Desserts, Snacks",TRUE,TRUE,4,34
+Green Burrito,Irvine,CA,92620,US,"Burritos, Latin American, Mexican, New Mexican",TRUE,TRUE,1,1
+Grilled & Cheesy,Henderson,NV,89012,US,"Alcohol, American, Bagels, Comfort Food, Deli, Grilled Cheese, Healthy, Kosher, Sandwich, Sandwiches, Soup",FALSE,TRUE,2.8,5
+Gyros Kabob Mediterranean Grill,Chicago,IL,60625,US,"Gyro, Mediterranean",FALSE,TRUE,2,428
+Gyros Kabob Mediterranean Grill,Chicago,IL,60625,US,"Gyro, Mediterranean",FALSE,TRUE,2,428
+Hardee's,Fond du Lac,WI,54935,US,"American, Burgers, Fast Food, Sandwiches, Subs & Sandwiches",TRUE,TRUE,2.3,25
+Hd Wings & Things,McDonough,GA,30253,US,Chicken Wings,FALSE,TRUE,2.7,6
+Hey Burger,Miami,FL,33166,US,"Alcohol, American, Burgers, Cheeseburger, Comfort Food, Fast Food, Fries, Hamburgers, Hot Dogs, Mexican, Sandwiches",TRUE,TRUE,2.3,21
+Hey Burger,Miami,FL,33166,US,"Alcohol, American, Burgers, Cheeseburger, Comfort Food, Fast Food, Fries, Hamburgers, Hot Dogs, Mexican, Sandwiches",TRUE,TRUE,2.3,21
+Hibachi Ko Santa Monica,Santa Monica,CA,90401,US,"Alcohol, Asian, Asian Fusion, Beer to go, Bowls, Chicken, Craft Cocktails, Dinner, Family Meals, Fried Rice, Hibachi, Japanese, Lunch, Ramen, Ramen Noodles, Rice, Rice Bowl, Salad, Salads, Shareables, Side Vegetables, Soup, Sushi, Wine",TRUE,TRUE,2.7,11
+Hibachi Xpress,Akron,OH,44303,US,"Asian, Beverages, Chinese, Entr√©es, Japanese, Kids Menu, Noodles, Seafood, Sides, Signature Sauces, Soul Food, Steak, Sushi",TRUE,TRUE,2.9,63
+Hokulia Shave Ice,Prosper,TX,75078,US,Shaved Ice,FALSE,TRUE,2,1
+Hokulia Shave Ice,Prosper,TX,75078,US,Shaved Ice,FALSE,TRUE,2,1
+Homes Of Biryani,Dallas,TX,75205,US,"Asian, Indian",TRUE,TRUE,2.2,13
+Honey Glazed Hams,Honolulu,HI,96826,US,"American, Dinner, Lunch, Sandwiches, Soup, Wraps",FALSE,TRUE,5,55
+"Hook, Line & Seafood",Secaucus,NJ,7094,US,"American, Barbeque, Cheesesteaks, Chicken Wings, Seafood, Southwestern",FALSE,TRUE,2.9,32
+Hootie's Burger Bar,Mishawaka,IN,46545,US,"American, Bar Food, Burger, Burgers, Hamburgers, Late Night, Pub Food, Sandwiches, Wings",TRUE,TRUE,2.1,100
+Hootie's Chicken Tenders,Albuquerque,NM,87109,US,"American, Barfood, Chicken, Chicken Tenders, Dinner, Lunch, Wings",TRUE,TRUE,2.5,2
+Hot Chx Nashville Hot Chicken,Los Angeles,CA,90007,US,"Fried Chicken, Sandwiches, Southern",TRUE,TRUE,1.9,12
+Hot Chx Nashville Hot Chicken,Austin,TX,78751,US,"Chicken, Comfort Food",TRUE,TRUE,2.6,34
+Hot Dog Factories And Grill,New York,NY,10032,US,"Chicken, Ice Cream",FALSE,TRUE,2,42
+Hot Wings Co,Santa Ana,CA,92705,US,"Alcohol, American, Boneless Wings, Chicken, Chicken Tenders, Chicken Wings, Comfort Food, Fast Food, Fried Chicken, Halal, Sandwiches, Wings",TRUE,TRUE,2.6,36
+House Of Pasta,Lilburn,GA,30047,US,"Comfort Food, Italian, Pasta",FALSE,TRUE,2.6,28
+Huddle House,Rincon,GA,31326,US,"American, Breakfast & Brunch, Breakfast &Amp; Brunch, Salads",TRUE,TRUE,3.4,28
+Huddle House,Soddy Daisy,TN,37379,US,"American, Burgers, Family Meals, Sandwiches",TRUE,TRUE,3.7,20
+Hungarian Kitchen,North Fort Myers,FL,33917,US,"Desserts, Grocery",FALSE,TRUE,3,1
+Hungry Howie's,Gainesville,FL,32608,US,"American, Chicken, Desserts, Healthy, Italian, Pasta, Pizza, Salad, Salads, Sandwich, Sandwiches, Wings",FALSE,TRUE,4.7,93
+Hungry Howie's,Orlando,FL,32811,US,"Healthy, Italian, Pasta, Pizza, Salad, Salads, Sandwich, Sandwiches, Wings",TRUE,TRUE,3.4,18
+I Tea Cafe,Pittsburgh,PA,15232,US,"Asian, Asian Food, Asian Fusion, Chicken, Chinese, Coffee & Tea, Coffee And Tea, Dinner, Lunch, Lunch Specials, Noodles",TRUE,TRUE,4,506
+IHOP on Evangeline Trwy.,Lafayette,LA,70507,US,"American, Breakfast, Breakfast And Brunch, Burger, Chicken, Coffee, Comfort Food, Dinner, Family Meals, Omelette, Salad, Sandwiches, Traditional American",TRUE,TRUE,3.9,76
+Imo's Pizza,Chesterfield,MO,63005,US,"Healthy Pizza, Pizza, Thick Crust Pizza, Thin Crust Pizza, Veggie Pizza",FALSE,TRUE,3.8,15
+India Palace,Greenville,SC,29607,US,"Asian, Chicken, Dinner, Indian, Kids Menu, Lunch Specials, Salads, Soup, Vegan",TRUE,TRUE,5,91
+Indian Dhaba,Lauderhill,FL,33351,US,"Appetizers - Chaat Corner, Appetizers - Pakoras, Appetizers - Samosas, Asian Breakfast, Biryani, Breads, Desserts, Drinks, Family Platters, Indian, Lunch, Non-Vegetarian Corner, Seafood, Soul Food, Tandoor, Vegetarian Corner, Wraps",FALSE,TRUE,1.8,5
+Insomnia Cookies,Milwaukee,WI,53203,US,"American, Bakery, Dessert, Desserts, Ice Cream, Late Night, Snacks",TRUE,TRUE,2.7,301
+Insomnia Cookies,Charlotte,NC,28202,US,"American, Bakery, Dessert, Desserts, Ice Cream, Late Night, Snacks",TRUE,TRUE,2.7,148
+Insomnia Cookies,St. Louis,MO,63101,US,"American, Bakery, Comfort Food, Dessert, Desserts, Ice Cream, Late Night, Snacks",TRUE,TRUE,2,217
+It's Just Wings,Detroit,MI,48228,US,"American, Burgers, Sandwiches",TRUE,TRUE,2.8,11
+J. Alexander's : Jacksonville,Jacksonville,FL,32246,US,"American (New), Comfort Food, Desserts, Steakhouses",TRUE,TRUE,4.1,34
+Jack's Famous Wings,Memphis,TN,38106,US,Chicken Wings,FALSE,TRUE,3.4,9
+Jack's London Grill,St. Petersburg,FL,33702,US,"Alcohol, Allergy Friendly, Burger, Chicken, European, Healthy, Salads, Sandwich, Wings",TRUE,TRUE,4.6,89
+JAILBIRD,Phoenix,AZ,85004,US,"American, Burgers, Chicken, Chicken Wings, Fried Chicken, Sandwiches",TRUE,TRUE,2.5,4
+Jamaican Jerk Kitchen,Lakeland,FL,33805,US,"Allergy Friendly, Caribbean, Chicken, Dinner, Jamaican, Latin American, Seafood, Snacks",TRUE,TRUE,4,10
+Jamba - 000414 - Grand Avenue,St. Paul,MN,55105,US,"Bowls, Breakfast And Brunch, Coffee, Desserts, Healthy, Juice And Smoothies, Smoothies",TRUE,TRUE,4.8,46
+Jaripeo Mexican Grill,Appleton,WI,54913,US,"Free Delivery, Healthy, Latin American, Mexican, Mexican Food, Vegetarian",TRUE,TRUE,3.9,407
+Jason's Deli,Melbourne,FL,32904,US,"American, Deli, Family Meals, Pasta, Salad, Salads, Sandwich, Sandwiches",TRUE,TRUE,4.8,148
+Jason's Deli,Greenville,SC,29607,US,"American, Breakfast, Deli, Family Meals, Group Friendly, Healthy, Lunch, Pasta, Pickup, Salad, Salads, Sandwich, Sandwiches, Soup, Takeout, Vegan, Vegetarian",TRUE,TRUE,4.7,2100
+Jersey Mike's,St. Augustine,FL,32084,US,"American, Sandwich, Sandwiches",TRUE,TRUE,4.7,62
+Jersey Mike's,Wailuku,HI,96793,US,"American, Sandwich, Sandwiches",TRUE,TRUE,4.8,22
+Jersey Mike's,Melbourne,FL,32901,US,"American, Group Friendly, Salad, Sandwich, Sandwiches",TRUE,TRUE,4.8,200
+Jersey Mike's- Cliff Rd,Eagon,MN,55122,US,"American, Desserts, Sandwich, Sandwiches, Vegan",TRUE,TRUE,4.7,30
+Jersey's Pancake House,Little Falls,NJ,7424,US,"American, Breakfast, Brunch, Dessert, Fast Food",FALSE,TRUE,1,1
+Jimbob's Pizza,Eau Claire,WI,54701,US,"American, Fast Food, Healthy Pizza, Ice Cream & Frozen Yogurt, Italian, Pizza, Sandwiches, Subs & Sandwiches, Veggie Pizza, Wings",FALSE,TRUE,4.1,127
+Johnny Rockets,Santa Monica,CA,90401,US,"American, Dinner, Hamburgers, Shakes",TRUE,TRUE,2,84
+Jolene's Market,Honolulu,HI,96817,US,"American, Asian, Bubble Tea, Desserts, Exclusive To Eats, Family Friendly, Group Friendly, Only Available Here, Sandwiches, Seafood",TRUE,TRUE,5,142
+Journeys Bar & Grill,Kaukauna,WI,54130,US,"American, American Food, Burgers, Healthy, Pizza, Sandwiches, Subs & Sandwiches",FALSE,TRUE,1.9,8
+Journeys Bar & Grill,Kaukauna,WI,54130,US,"American, American Food, Burgers, Healthy, Pizza, Sandwiches, Subs & Sandwiches",FALSE,TRUE,1.9,8
+Journeys Bar & Grill,Kaukauna,WI,54130,US,"American, American Food, Burgers, Healthy, Pizza, Sandwiches, Subs & Sandwiches",FALSE,TRUE,1.9,8
+Joy Lake FoodMart,Morrow,GA,30260,US,"American, Chicken Wings, Fast Food, Pizza, Wings",TRUE,TRUE,1,1
+Juanys Taqueria,San Antonio,TX,78211,US,"Latin American, Mexican, New Mexican",TRUE,TRUE,2.3,3
+Juice Tap,Jacksonville,FL,32256,US,"Breakfast And Brunch, Juice And Smoothies, Salad, Smoothies, Smoothies And Juices, Vegetarian",TRUE,TRUE,5,207
+Juicy Seafood  & Wings,Flint Charter Township,MI,48507,US,"American, Seafood, Wings",TRUE,TRUE,2.9,22
+Julie's Cafe & Catering,Green Bay,WI,54302,US,"American, American Food, Breakfast, Burgers, Cafe, Catering, Diner Food, Dinner, Hamburgers, Lunch, Sandwiches, Seafood, Subs & Sandwiches",FALSE,TRUE,3.5,213
+Just Smashed Burgers,Nashville-Davidson,TN,37203,US,"American, Burgers, Salads",TRUE,TRUE,2.8,30
+Just Wing It,Santa Ana,CA,92705,US,"American, Chicken, Chicken Wings, Comfort Food, Wings",TRUE,TRUE,2.6,86
+Just Wing It,Antioch,CA,94509,US,"Alcohol, American, Chicken, Chicken Wings, Wings",TRUE,TRUE,2.7,29
+Just Wing It.,Jacksonville,FL,32209,US,"American, Chicken, Dessert, Wings",TRUE,TRUE,3,1
+Kai's Thai Street Food And Bar,Seattle,WA,98105,US,"Asian, Asian Fusion, Dinner, Hamburgers, Healthy Food, Indian Food, Lunch, Lunch Specials, Noodles, Pasta, Salads, Sandwich, Sandwiches, Soup, Subs & Sandwiches, Thai, Vegetarian Friendly, Wraps",TRUE,TRUE,2.8,39
+Kezzys Bistro,Tallahassee,FL,32304,US,"Alcohol, American, Burgers, Comfort Food",TRUE,TRUE,2.9,31
+Kfc,Memphis,TN,38114,US,"American, Bowls, Chicken, Dinner, Fast Food, Lunch, Potato, Sandwiches, Southern, Wings",TRUE,TRUE,3.5,48
+Kfc,Topeka,KS,66608,US,"American, Family Meals, Fast Food, National Brand, Subs & Sandwiches, Wings",TRUE,TRUE,3.3,70
+Kfc,Memphis,TN,38106,US,"American, Chicken, Dinner, Family Friendly, Family Meals, Fast Food, Lunch, Potato, Sandwiches, Southern, Wings",TRUE,TRUE,2.7,142
+Kfc,Columbus,GA,31903,US,"American, Family Meals, Fast Food, Wings",TRUE,TRUE,3.5,22
+Killer Wings,Brooklyn,NY,11206,US,"American, Fast Food, Wings",FALSE,TRUE,2,52
+Kin Dee Seattle,Seattle,WA,98112,US,"Asian, Asian Fusion, Coffee, Curry, Dinner, Lunch, Noodles, Otsumami, Salad, Soup, Sushi, Thai, Vegan",TRUE,TRUE,5,185
+Kings Empanadas,South El Monte,CA,91733,US,"Chicken, Dinner, Empanadas, Latin American, Lunch, Peruvian, Pickup, Sandwiches, Spanish, Takeout",TRUE,TRUE,3.6,12
+Krauszer's,New Brunswick,NJ,8901,US,"Deli, Grocery, Pickup, Sandwich, Sandwiches, Takeout",FALSE,TRUE,2,2
+Krauszer's,New Brunswick,NJ,8901,US,"Deli, Grocery, Pickup, Sandwich, Sandwiches, Takeout",FALSE,TRUE,2,2
+Krispy Kreme,Tallahassee,FL,32303,US,"American, Bakery, Breakfast And Brunch, Desserts",FALSE,TRUE,4.5,50
+Krispy Krunchy Chicken,Philadelphia,PA,19131,US,"American, Breakfast, Burgers, Cajun, Chicken, Chicken Tenders, Family Friendly, Family Meals, Fast Food, Fried Chicken, Kids, Sandwiches, Seafood, Shrimp, Southern, Wings",TRUE,TRUE,3.6,1005
+Krispy Rice,Poughkeepsie,NY,12601,US,"Asian, Bar Food, Japanese, Sushi",FALSE,TRUE,2.1,20
+Krispy Rice,Mesquite,TX,75150,US,"Asian, Bar Food, Japanese, Sushi",FALSE,TRUE,2.4,10
+Krystal,Pensacola,FL,32504,US,"American, Burgers, Fast Food",TRUE,TRUE,3.6,56
+Kwik Star #715,WATERLOO,IA,50702,US,"Alcohol, American Food, Bakery Food, Breakfast, Burgers, Comfort Food, Convenience, Convenience Store, Deli, Dessert, Dinner, Everyday Essentials, Fast Food, Grocery, Healthy Food, Ice Cream & Frozen Yogurt, Late Night Food, Lunch, Personal Care, Pizza, Smoothies & Juices, Snacks, Subs & Sandwiches",FALSE,TRUE,4.7,13
+Kwik Trip #496,SUN PRAIRIE,WI,53590,US,"American Food, Bakery Food, Breakfast, Burgers, Comfort Food, Convenience, Convenience Store, Deli, Dessert, Dinner, Everyday Essentials, Fast Food, Free Delivery, Grocery, Healthy Food, Ice Cream & Frozen Yogurt, Late Night Food, Lunch, Personal Care, Pizza, Smoothies & Juices, Snacks, Subs & Sandwiches",FALSE,TRUE,4.2,16
+Kwik Trip #652,FOND DU LAC,WI,54937,US,"American Food, Bakery Food, Breakfast, Burgers, Comfort Food, Convenience, Convenience Store, Deli, Dessert, Dinner, Everyday Essentials, Fast Food, Free Delivery, Grocery, Grocery Items, Healthy Food, Ice Cream & Frozen Yogurt, Late Night Food, Lunch, Personal Care, Pharmacy, Pizza, Smoothies & Juices, Snacks, Subs & Sandwiches",TRUE,TRUE,4,5
+L'industrie Pizzeria,Miami,FL,33132,US,"American, Italian, Pasta, Pizza",TRUE,TRUE,2.3,44
+L&l Hawaiian Barbecue,Honolulu,HI,96819,US,"BBQ, Bbq, Burger, Hawaiian, Soup",TRUE,TRUE,4.5,34
+L2 Tea Club,San Gabriel,CA,91776,US,Coffee And Tea,TRUE,TRUE,1,2
+La Cabanita Taqueria Y Mariscos,Little Rock,AR,72204,US,"Breakfast, Group Friendly, Latin, Latin American, Mexican, New Mexican, Sandwiches, Seafood, Taco",TRUE,TRUE,4.4,77
+La Ciccia,Honolulu,HI,96826,US,"Desserts, Italian, Pasta, Seafood",TRUE,TRUE,5,38
+La Estancia Restaurant,Hyattsville,MD,20784,US,"Latin American, Mexican, Tacos",TRUE,TRUE,3.4,20
+La Fraguita Restaurant,Miami,FL,33144,US,"A La Carte, Aperitivos (Appetizers), App, Aves (Chicken), Bebidas (Beverages), Cafeteria, Carnes (Meats), Desayuno (Breakfast), Domingo, Ensaladas (Salads), Especiales Diarios (Daily Special), Jueves, Latin American, Lunes, Martes, Miercoles, Ninos (Kids), Ofertas Semanales, Ordenes Individuales (Side Orders), Ordenes Individuales De Desayuno (Breakfast Side Orders), Para Llevar, Pescados (Seafood), Postres (Desserts), Sabado, Salads, Sandwiches, Sopas (Soups), Tortillas (Omelettes), Viernes",TRUE,TRUE,2.5,6
+La Hacienda,Madison,WI,53715,US,"Latin American, Mexican, Mexican Food, New Mexican",TRUE,TRUE,3.4,166
+La Jerezana,Salina,KS,67401,US,"Food Truck, Mexican Food",FALSE,TRUE,4.2,29
+Larry's Giant Subs,Jackasonville,FL,32205,US,"American, Healthy, Sandwiches",TRUE,TRUE,4.7,71
+Las Gidi Nigerian/african Kitchen,Las Vegas,NV,89102,US,"African, Comfort Food, Steak",TRUE,TRUE,2.6,17
+Latin Grill,Fort Myers,FL,33907,US,"Affordable Meals, Caribbean, Exclusive To Eats, Latin, Latin American, Mexican, Only Available Here",TRUE,TRUE,4.4,64
+Lemongrass Asian Fusion,Wausau,WI,54403,US,"Asian, Asian Fusion, Fusion, Korean",FALSE,TRUE,4.2,250
+Lennys Grill & Subs,Cape Coral,FL,33990,US,"Dessert, Grill, Lunch, Lunch Specials, Meal Kit, Sandwiches, Subs, Vegetarian",TRUE,TRUE,5,430
+Leo & Ken's,Lawton,OK,73501,US,"American, Breakfast, Coffee, Dessert, Desserts, Dinner, Lunch, Sandwiches, Soup",TRUE,TRUE,3,4
+Leo's Pizza Italian Restaraunt,Washington,NJ,7882,US,"American, Gluten Free Pizza, Grandma Pizza, Healthy Pizza, Italian, Pan Pizza, Pizza, Sicilian Pizza, Stuffed Pizza, Thick Crust Pizza, Vegan Pizza, Veggie Pizza",FALSE,TRUE,4.2,11
+Lex Gourmet,New York,NY,10021,US,"Bodega, Fast Food",TRUE,TRUE,2,68
+Libertad Restaurant,Jamaica,NY,11417,US,"American, Breakfast, Chicken, Dessert, Dinner, Dominican, Kids Menu, Lunch, Lunch Specials, Salads, Sandwiches, Seafood, Soup, Spanish, Spanish Food",TRUE,TRUE,5,3497
+Liberty Pizza,North Miami,FL,33161,US,"American, Burgers, Italian, Pizza, Sandwiches, Seafood, Subs, Wings",TRUE,TRUE,2.3,128
+Lil Mikey's Pizza,Philadelphia,PA,19147,US,"American, Italian, Pizza, Salads, Sandwiches, Wings",TRUE,TRUE,1.6,19
+Lindsey's Hospitality House,North Little Rock,AR,72114,US,"American, BBQ, Barbecue, Bbq, Desserts, Sandwich, Sandwiches, Seafood, Soul Food, Southern",TRUE,TRUE,4.3,105
+Little Asia,Gastonia,NC,28056,US,"Asian, Chinese, Noodles",TRUE,TRUE,3.3,10
+Little Caesars,Texarkana,TX,75503,US,"American, Comfort Food, Fast Food, Italian, Kids Friendly, Pizza, Wings",TRUE,TRUE,3.3,22
+Little Caesars,Dayton,OH,45414,US,"American, Italian, Pizza",TRUE,TRUE,2.9,15
+Little Caesars,Little Chute,WI,54140,US,"American, Fast Food, Italian, National Brand, Pizza, Wings",TRUE,TRUE,3.3,22
+Little Caesars,Kalamazoo,MI,49008,US,"American, Comfort Food, Fast Food, Pizza",TRUE,TRUE,1.8,18
+Little Caesars,Fort Wayne,IN,46808,US,"American, Comfort Food, Fast Food, Pizza",TRUE,TRUE,2.9,31
+Little Caesars,Ames,IA,50010,US,"American, Comfort Food, Fast Food, Italian Food, National Brand, Pizza",TRUE,TRUE,3.8,23
+Little Caesars,Green Bay,WI,54303,US,"American, Comfort Food, Fast Food, National Brand, Pizza",TRUE,TRUE,2.9,37
+Loaded Chick'n Tenders,Washington,DC,20010,US,"Alcohol, American, Burgers, Chicken, Chicken Tenders, Fast Food, Kids, Sandwiches",TRUE,TRUE,2.7,61
+Long John Silver's,Indianapolis,IN,46268,US,"Chicken, Mexican, Sandwich, Seafood",TRUE,TRUE,3.3,46
+Long John Silver's,Spartanburg,SC,29301,US,"American, Bowls, Family Meals, Sandwiches, Seafood, Southern, Tacos",TRUE,TRUE,3,17
+Loop,San Jose,CA,95122,US,"Alcohol, American, Candy, Convenience, Everyday Essentials, Grocery, Grocery Items, Home & Personal Care, Home &Amp; Personal Care, Ice Cream, Sandwiches, Snacks",TRUE,TRUE,3.4,5
+Los Panchos Restaurant,Aurora,IL,60505,US,"Mexican, Puerto Rican",TRUE,TRUE,3.4,32
+Lou's Bar & Grill,Phoenix,AZ,85008,US,"American, American (New), Dinner, Pizza",FALSE,TRUE,2,2
+Luciano's South Park Mall,San Antonio,TX,78224,US,"American, Desserts, Family Meals, Group Friendly, Italian, Pasta, Pizza, Salads, Wings",TRUE,TRUE,3.9,40
+Lucky Street Thai & Sushi 1400 County Rd 101,Plymouth,MN,55447,US,"Asian, Noodles, Sushi, Thai",TRUE,TRUE,4.9,30
+Maa's Indian Kitchen,Sea Cliff,NY,11579,US,"Asian, Chicken, Curry, Indian, Seafood",TRUE,TRUE,3.8,5
+Maa's Indian Kitchen,Sea Cliff,NY,11579,US,"Asian, Chicken, Curry, Indian, Seafood",TRUE,TRUE,3.8,5
+Macaroni Grill - Kissimee,Kissimmee,FL,34746,US,"Chicken, Desserts, Dinner, Family Friendly, Group Friendly, Italian, Pasta, Salads",TRUE,TRUE,4.4,186
+Macaroni Grill - Opry Mills,Nashville,TN,37214,US,"Chicken, Desserts, Family Friendly, Italian, Salads",TRUE,TRUE,2.7,278
+Macology,Austin,TX,78751,US,"American, Italian, Mac And Cheese",TRUE,TRUE,1.6,34
+Macology,Austin,TX,78758,US,"American, Italian, Mac And Cheese",TRUE,TRUE,2.3,32
+Mad Dogs & Englishmen,Tampa,FL,33611,US,"American, Breakfast, British, Burger, Burgers, Desserts, Fish And Chips, Italian, Pizza, Salad, Salads, Sandwiches, Seafood, Steakhouse, Thai",TRUE,TRUE,4.5,34
+Magic Dragon Asian Cuisine,Santa Maria,CA,93454,US,"Asian, Asian Food, Asian Fusion, Cantonese, Chinese, Chinese Food, Comfort Food, Dessert, Dim Sum, Dinner, Fine Dining, Fusion, Japanese, Japanese Food, Lunch, Mandarin, Noodles, Seafood, Soup, Szechwan, Vegan, Vegetarian",TRUE,TRUE,4.2,6
+Mak's Pasta & Salad,Nashville,TN,37219,US,"American, Chicken, Comfort Food, Dessert, Desserts, Diner, Dinner, Exclusive To Eats, Family Meals, Fast Food, Gluten Free, Gluten-Free, Italian, Lunch, Only Available Here, Pasta, Pickup, Pizza, Salad, Salads, Sandwich, Sandwiches, Snacks, Takeout, Vegan, Vegetarian, Vegetarian Friendly, Wings",TRUE,TRUE,2.7,177
+Maple Street Biscuit Company,Saint Petersburg,FL,33701,US,"American, Breakfast, Breakfast And Brunch, Coffee, Family Friendly, Group Friendly, Southern",TRUE,TRUE,4.7,242
+Marco's Pizza,Oshkosh,WI,54902,US,"Gluten Free, Italian, Pizza, Sandwich, Subs & Sandwiches",TRUE,TRUE,3.1,41
+Marco's Pizza,Jonesboro,AR,72401,US,"Chicken, Chicken Wings, Family Meals, Italian, Pizza, Salad, Sandwich, Vegetarian Friendly",TRUE,TRUE,4.7,235
+Mario's Lord Of The Wings,Cincinnati,OH,45211,US,"American, Fast Food, Sandwich, Wings",TRUE,TRUE,2,52
+Maryams Grill,Little Rock,AR,72201,US,"Burger, Chicken, Greek, Mediterranean, Salad, Sandwiches, Seafood, Vegan, Vegetarian",TRUE,TRUE,4.6,40
+Mazorka Street Corn,San Antonio,TX,78207,US,"American, Burritos, Comfort Food, Healthy, Mexican, Nachos, Sandwiches, Snacks, Street Food, Tacos",TRUE,TRUE,2.3,3
+McClane's Burger,San Diego,CA,92154,US,"American, Burgers, Comfort Food, Dessert, Desserts, Fast Food, Fries, Hamburgers, Sandwiches, Traditional American",TRUE,TRUE,2.3,6
+McDonald's,Meraux,LA,70075,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Salad, Sandwiches",FALSE,TRUE,4.1,58
+McDonald's,Woodruff,SC,29388,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Coffee, Fast Food, Hamburger",FALSE,TRUE,3.4,20
+McDonald's,Philadelphia,PA,19122,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,2,949
+McDonald's,Waterloo,IA,50703,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Coffee, Coffee & Tea, Coffee And Tea, Dessert, Dinner, Fast Food, Hamburger, Hamburgers, Healthy Food, Ice Cream & Frozen Yogurt, Lunch, National Brand, Subs & Sandwiches",FALSE,TRUE,2.2,25
+McDonald's,Bessemer,AL,35022,US,"American, Breakfast, Burger, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Salad, Sandwiches",FALSE,TRUE,3.2,76
+McDonald's,Des Moines,IA,50322,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,3.6,95
+McDonald's,Topeka,KS,66605,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee & Tea, Coffee And Tea, Dessert, Dinner, Fast Food, Hamburger, Hamburgers, Healthy Food, Ice Cream, Ice Cream & Frozen Yogurt, Kids Menu, Lunch, National Brand, Sandwiches, Subs & Sandwiches",FALSE,TRUE,3.7,78
+McDonald's,Las Vegas,NV,89101,US,"American, Bakery, Breakfast, Burger, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,2,45
+McDonald's,Eau Claire,WI,54701,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Coffee, Coffee & Tea, Dessert, Fast Food, Hamburger, Healthy Food, Ice Cream & Frozen Yogurt, National Brand, Subs & Sandwiches",FALSE,TRUE,2.5,47
+McDonald's,Wausau,WI,54401,US,"American, Bakery, Breakfast, Burgers, Cafe, Chicken, Coffee & Tea, Coffee And Tea, Dessert, Dinner, Fast Food, Hamburgers, Healthy Food, Ice Cream, Ice Cream & Frozen Yogurt, Kids Menu, Lunch, National Brand, Sandwiches, Subs & Sandwiches",FALSE,TRUE,2.7,11
+McDonald's,Hot Springs,AR,71901,US,"American, Bakery, Breakfast, Burger, Burgers, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Sandwiches, Smoothies",FALSE,TRUE,4.2,36
+McDonald's,Conway,AR,72034,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Salad",FALSE,TRUE,3.8,20
+McDonald's,Wausau,WI,54401,US,"American, Bakery, Breakfast, Burgers, Cafe, Chicken, Coffee & Tea, Coffee And Tea, Dessert, Dinner, Fast Food, Hamburgers, Healthy Food, Ice Cream, Ice Cream & Frozen Yogurt, Kids Menu, Lunch, National Brand, Sandwiches, Subs & Sandwiches",FALSE,TRUE,2.4,23
+McDonald's,Louisville-Jefferson County,KY,40214,US,"American, Burgers, Fast Food",FALSE,TRUE,3.2,100
+McDonald's,Clinton,MS,39056,US,"American, Breakfast, Burger, Cheeseburger, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Lunch",FALSE,TRUE,4.1,72
+McDonald's,Hot Springs,AR,71901,US,"American, Bakery, Breakfast, Burger, Burgers, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Sandwiches, Smoothies",FALSE,TRUE,4.2,36
+McDonald's,Wausau,WI,54401,US,"American, Bakery, Breakfast, Burgers, Cafe, Chicken, Coffee & Tea, Coffee And Tea, Dessert, Dinner, Fast Food, Hamburgers, Healthy Food, Ice Cream, Ice Cream & Frozen Yogurt, Kids Menu, Lunch, National Brand, Sandwiches, Subs & Sandwiches",FALSE,TRUE,2.7,11
+McDonald's,Binghamton,NY,13904,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,3.9,54
+McDonald's,Las Vegas,NV,89101,US,"American, Bakery, Breakfast, Burger, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,2,45
+McDonald's,Conway,AR,72034,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Salad",FALSE,TRUE,3.8,20
+McDonald's,Ithaca,NY,14850,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,3.7,400
+McDonald's,Meraux,LA,70075,US,"American, Breakfast, Burger, Burgers, Cheeseburger, Chicken, Coffee, Desserts, Fast Food, Hamburger, Salad, Sandwiches",FALSE,TRUE,4.1,58
+McDonald's,Las Vegas,NV,89101,US,"American, Bakery, Breakfast, Burger, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,2,45
+McDonald's,Appleton,WI,54911,US,"American, Burgers, Coffee & Tea, Dessert, Fast Food, Group Friendly, Healthy Food, Ice Cream & Frozen Yogurt, National Brand, Subs & Sandwiches",FALSE,TRUE,3.5,26
+McDonald's,Hazelwood,MO,63042,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,2.8,101
+McDonald's,Jamestown,NY,14701,US,"American, Breakfast, Burgers, Coffee And Tea, Dinner, Fast Food, Hamburgers, Lunch",FALSE,TRUE,4.1,30
+McDonald's,Cabot,AR,72023,US,"American, Breakfast, Burger, Cheeseburger, Coffee, Fast Food, Hamburger",FALSE,TRUE,4,52
+McDonald's,Cincinnati,OH,45251,US,"American, Bakery, Breakfast, Burger, Burgers, Cafe, Cheeseburger, Chicken, Coffee, Coffee And Tea, Dinner, Fast Food, Hamburger, Hamburgers, Ice Cream, Kids Menu, Lunch, Sandwiches",FALSE,TRUE,2.9,79
+McDonald's,Richmond,RI,2898,US,"American, Burger, Fast Food",FALSE,TRUE,3.2,26
+McDonald's ,Colerain,OH,45239,US,"American, Burgers, Fast Food",FALSE,TRUE,2.9,11
+Mcdonald's¬Æ,Hammond,IN,46323,US,"American, Burgers, Fast Food",FALSE,TRUE,2.8,10
+Mcdonald's¬Æ,JENNINGS,MO,63136,US,"American, Burgers, Fast Food",FALSE,TRUE,3.1,82
+Mcdonald's¬Æ,Redford,MI,48239,US,"American, Burgers, Fast Food",FALSE,TRUE,3.1,54
+Mediterranean House Of Kabob,Rockville,MD,20852,US,"Diner, Dinner, Healthy, Lunch Specials, Mediterranean, Middle Eastern, Salads, Vegetarian",TRUE,TRUE,5,130
+Mel's Melts,San Diego,CA,92123,US,"American, Diner, Sandwiches",TRUE,TRUE,3.8,15
+Mel's Melts,Middleton,WI,53562,US,"American, Deli, Sandwich",FALSE,TRUE,3.3,40
+Memphis Best Bbq And Wings,College Park,GA,30349,US,"American, Bbq, Burgers, Sandwich, Soul Food, Southern, Vegan, Wings",TRUE,TRUE,3.3,55
+Mercy's Bakery - Lansdale,Lansdale,PA,19446,US,"Bakeries, Breakfast & Brunch, Breakfast And Brunch, Burritos, Empanada, Mexican, Salads",TRUE,TRUE,2.5,2
+Mexican Post,Plainsboro Township,NJ,8536,US,"Burritos, Healthy, Mexican, Quesadillas, Salads, Tacos, Tex Mex",FALSE,TRUE,1,3
+Mi Casa Mexican Restaurant  Riverview,Riverview,FL,33578,US,"Alcohol, Group Friendly, Latin American, Mexican, New Mexican",TRUE,TRUE,4.7,304
+Midtown Noodles,Tallahassee,FL,32303,US,"Asian, Chinese, Desserts, Japanese, Soup",TRUE,TRUE,4.7,100
+Midtown Noodles,Tallahassee,FL,32303,US,"Asian, Chinese, Desserts, Japanese, Soup",TRUE,TRUE,4.7,100
+Milio's Madison - Eastpark (AmFam),Madison,WI,53718,US,"American, Fast Food, Healthy, Sandwiches, Subs & Sandwiches",TRUE,TRUE,4.3,29
+Million's Crab,West Chester,OH,45069,US,"American, Family Meals, Salads, Seafood, Southern",TRUE,TRUE,3.6,22
+Ming's Chinese Restaurant,Rockville,MD,20850,US,"Asian, Chicken, Chinese, Dinner, Latin American, Lunch Specials, New American, Spanish, Tapas",TRUE,TRUE,4,117
+Mixed Vybez,Charleston,SC,29401,US,"Empanada, Latin American, Seafood",TRUE,TRUE,1.3,14
+Miyo's,Columbia,SC,29212,US,"Asian, Chicken, Chinese, Japanese, Salad, Seafood, Soup, Sushi, Thai, Vietnamese, Wings",FALSE,TRUE,3,3
+Mobile Bros. Foods,Nashville,TN,37203,US,"Burgers, Chicken, Food Trucks",FALSE,TRUE,3.5,2
+Moe's Southwest Grill,Salisbury,MD,21801,US,"Fast Food, Mexican",TRUE,TRUE,3.8,22
+Moe's Southwest Grill,Fleming Island,FL,32003,US,"Fast Food, Mexican, Salad, Taco, Tex Mex",TRUE,TRUE,4.5,46
+Moe's Southwest Grill,Conway,AR,72034,US,"Burritos, Desserts, Fast Food, Mexican, Pickup, Quesadillas, Salad, Salads, Taco, Tacos, Takeout, Tex-Mex, Vegan",TRUE,TRUE,4.4,444
+Moe's Southwest Grill,Dothan,AL,36303,US,"Fast Food, Mexican, Salads",TRUE,TRUE,3.6,22
+Mojo's Tacos,St. Augustine,FL,32080,US,"Latin American, Mexican, Tacos",TRUE,TRUE,4.4,40
+Mojo's Tacos,St. Augustine,FL,32080,US,"Latin American, Mexican, Tacos",TRUE,TRUE,4.4,40
+Molto Pizza,Atlantic City,NJ,8401,US,Pizza,FALSE,TRUE,3.5,2
+Mom's Siam Restaurant,Richmond,VA,23221,US,"Asian, Asian Fusion, Indian Food, Korean, Noodles, Pasta, Thai, Thai Food",FALSE,TRUE,4.5,170
+MomO's Cafe,Newport News,VA,23606,US,"American, Breakfast, Cafe, Healthy Food, Lunch, Salads, Sandwiches, Subs & Sandwiches, Wraps",TRUE,TRUE,3,2
+Morris Ramen,Madison,WI,53703,US,"Aapi-Owned, Asian Food, Free Delivery, Japanese Food, Noodles, Ramen",FALSE,TRUE,4.4,202
+MoYakitori Bar-Peachtree Rd,Atlanta,GA,30305,US,"Asian, Japanese, Noodles, Thai",FALSE,TRUE,3.8,40
+Mr. Fish & Chicken,Detroit,MI,48205,US,"American, Comfort Food, Fish And Chips, Wings",TRUE,TRUE,3.1,36
+Mrbeast Burger,Austin,TX,78759,US,"American, Burgers, Chicken Wings, Fries, Sandwich, Sandwiches",TRUE,TRUE,2.3,3
+MrBeast Burger,Waxahachie,TX,75165,US,"American, Desserts",TRUE,TRUE,2.9,20
+MrBeast Burger,Waxahachie,TX,75165,US,"American, Desserts",TRUE,TRUE,2.9,20
+Mrbeast Burger,Austin,TX,78759,US,"American, Burgers, Chicken Wings, Fries, Sandwich, Sandwiches",TRUE,TRUE,2.3,3
+MrBeast Burger,Greenville,SC,29615,US,"American, Burgers, Chicken, Dessert, Hamburgers, Sandwich, Sandwiches",FALSE,TRUE,3,18
+MrBeast Burger,Plainfield,IL,60585,US,"American, Burgers, Chicken, Desserts, Sandwiches",TRUE,TRUE,3.7,27
+Munch Monster,Clementon,NJ,8021,US,"Convenience, Desserts, Fast Food, Ice Cream, Snacks, Soup",FALSE,TRUE,3.4,38
+Munch Monster,Clementon,NJ,8021,US,"Convenience, Desserts, Fast Food, Ice Cream, Snacks, Soup",FALSE,TRUE,3.4,38
+Munchie Vibez,Panama City,FL,32401,US,"American (Traditional), Food Trucks",FALSE,TRUE,4.1,139
+Murphy Deli,Richardson,TX,75082,US,"Breakfast, Catering, Deli, Lunch, Salads, Sandwich, Sandwiches",FALSE,TRUE,2,4
+Mustard Seed Cafe,Kingsport,TN,37660,US,"American, Breakfast, Breakfast And Brunch, Coffee, Coffee And Tea, Desserts, Gluten-Free, Lunch Specials, Organic, Salad, Sandwiches, Soup, Subs",TRUE,TRUE,5,191
+N!Ck's Ice Cream,Marietta,GA,30067,US,"Convenience, Desserts, Everyday Essentials, Grocery, Ice Cream, Ice Cream & Frozen Yogurt, Ice Cream &Amp; Frozen Yogurt, Snacks",TRUE,TRUE,1,1
+Nagoya Steakhouse And Sushi,Tallahassee,FL,32303,US,"Asian, Group Friendly, Japanese, Kids Friendly, Noodles, Steak, Sushi",TRUE,TRUE,4.5,112
+Nana's Cafe & Bakery,Sacramento,CA,95815,US,"Arabian, Bakery, Breakfast, Cafe, Cafes, Lunch, Middle Eastern, Sandwiches",TRUE,TRUE,2.3,11
+Nascar Refuel,Mount Laurel Township,NJ,8054,US,"American, Burgers, Chicken, Dessert, Desserts, Dinner, Fries, Hot Dogs, Lunch, Sandwiches",TRUE,TRUE,3.3,19
+Nash's Hot Chicken,Marietta,GA,30062,US,"American, Chicken, Classic, Comfort Food, Dinner, Fast Food, Fried Chicken, Kids Friendly, Lunch, Sandwich, Sandwiches, Southern",FALSE,TRUE,2.9,90
+Nash's Hot Chicken,Marietta,GA,30062,US,"American, Chicken, Classic, Comfort Food, Dinner, Fast Food, Fried Chicken, Kids Friendly, Lunch, Sandwich, Sandwiches, Southern",FALSE,TRUE,2.9,90
+Nashville Hot Wings,Brooklyn,NY,11222,US,Wings,TRUE,TRUE,3.4,5
+Nashville Kickn-Chicken,Villa Rica,GA,30180,US,"American, Chicken, Chicken Tenders, Chicken Wings, Sandwiches, Southern, Vegan Friendly, Vegetarian, Vegetarian Friendly, Wings",TRUE,TRUE,2.8,10
+Nate's BBQ To Go,Carrollton,TX,75010,US,Barbecue,FALSE,TRUE,2.5,4
+Nathan's Famous,Washington Court House,OH,43160,US,"American, Burgers, Cheesesteaks, Chicken, Chicken Tenders, Desserts, Fast Food, Hot Dogs, Sandwiches",TRUE,TRUE,3.1,73
+Nathan's Famous,Auburn,WA,98002,US,"American, American, Hot Dog, Hot Dog, Sandwich",TRUE,TRUE,2.8,11
+Nekter Juice Bar,Tampa,FL,33609,US,"Bowls, Breakfast And Brunch, Healthy, Ice Cream, Juice And Smoothies, Smoothies, Smoothies And Juices, Vegan, Vegetarian",TRUE,TRUE,5,48
+New Sindibad,Peoria,AZ,85381,US,"Chicken, Falafel, Salads",TRUE,TRUE,1.7,3
+New York Pizza Factory,Fairfax,VA,22030,US,"American, Chicken, Dinner, Gluten Free Pizza, Group Friendly, Gyro, Healthy Pizza, Italian, Late Night, Late Night Food, Lunch, New York Pizza, Pasta, Pizza, Salads, Sandwiches, Seafood Pizza, Subs, Subs & Sandwiches, Thin Crust Pizza, Vegan Pizza, Wings",TRUE,TRUE,2.3,3521
+New York Pizza Factory,Fairfax,VA,22030,US,"American, Chicken, Dinner, Gluten Free Pizza, Group Friendly, Gyro, Healthy Pizza, Italian, Late Night, Late Night Food, Lunch, New York Pizza, Pasta, Pizza, Salads, Sandwiches, Seafood Pizza, Subs, Subs & Sandwiches, Thin Crust Pizza, Vegan Pizza, Wings",TRUE,TRUE,2.3,3521
+Next Door Craft Beer & Wine Bar,San Diego,CA,92115,US,"American, Beer Bar, Burgers, Sandwiches, Wine Bars",TRUE,TRUE,1,1
+Ninja Sushi,Honolulu,HI,96819,US,"Coffee And Tea, Dessert, Japanese, Salads, Sushi",TRUE,TRUE,5,83
+No Baked Cookie Dough,Houston,TX,77004,US,"Alcohol, Comfort Food, Desserts, Virtual Kitchen",TRUE,TRUE,2,3
+Noodle Bar,Green Bay,WI,54313,US,"Asian, Asian Food, Asian Fusion, Korean, Pasta, Subs & Sandwiches",FALSE,TRUE,2.4,19
+Not Just Pizza 2 Go,Philadelphia,PA,19123,US,"American, Appetizers, Breakfast, Burgers, Cheesesteak, Cheesesteaks, Chicken, Chicken Tenders, Comfort Food, Convenience, Dessert, Desserts, Dinner, Everyday Essentials, Family Meals, Gluten-Free, Gourmet, Hamburgers, Healthy, Healthy Pizza, Italian, Late Night, Lunch, Mexican, Pasta, Pizza, Salads, Sandwiches, Tomato Pie, Vegan, Vegetarian, Vegetarian Friendly, Veggie Pizza, Wings",TRUE,TRUE,2.4,21
+NY Bakery and Desserts,New York,NY,10019,US,"American, Bakery, Breakfast, Cakes, Candy, Dessert, Frozen Yogurt, Ice Cream, Italian, Kids Menu, Late Night, Popcorn, Snacks",FALSE,TRUE,2,142
+NY Bakery and Desserts,New York,NY,10019,US,"American, Bakery, Breakfast, Cakes, Candy, Dessert, Frozen Yogurt, Ice Cream, Italian, Kids Menu, Late Night, Popcorn, Snacks",FALSE,TRUE,2,142
+NY Bakery and Desserts,New York,NY,10019,US,"American, Bakery, Breakfast, Cakes, Candy, Dessert, Frozen Yogurt, Ice Cream, Italian, Kids Menu, Late Night, Popcorn, Snacks",FALSE,TRUE,2,142
+Ny Manhattan Slice Pizza,Miami,FL,33135,US,"American, Italian, Pizza",TRUE,TRUE,2.3,17
+Ny Manhattan Slice Pizza,Miami,FL,33135,US,"American, Italian, Pizza",TRUE,TRUE,1.9,19
+Ny Manhattan Slice Pizza,Miami,FL,33135,US,"American, Italian, Pizza",TRUE,TRUE,1.9,19
+Ny Manhattan Slice Pizza,Miami Beach,FL,33139,US,"American, Italian, Pizza",TRUE,TRUE,1.8,40
+O'malley's Alley,Manhattan,KS,66502,US,"Bar/Pub Food, Burgers, Subs & Sandwiches, Wings",FALSE,TRUE,2.3,15
+Oak & Stone,Bradenton,FL,34201,US,"American, Fast Food, Pizza",TRUE,TRUE,3,30
+Off The Grill & Seafood,Cleveland,OH,44120,US,"American, Coffee and Tea, Fish And Chips, Hot Dogs, Salads, Sandwiches, Seafood, Subs",TRUE,TRUE,3.3,71
+Ohop Orono House Of Pizza,Penobscot County,ME,4473,US,"American, Dinner, Italian, Late Night Food, Lunch, Pizza",FALSE,TRUE,4.4,4208
+Outback Steakhouse,Niles,OH,44446,US,"American, Bbq, Burgers, Healthy, Salads, Sandwiches, Seafood, Steak",TRUE,TRUE,3.9,32
+PadThaiGuy,Irvine,CA,92606,US,"American, Burgers, Sandwiches, Thai",TRUE,TRUE,2.8,66
+Palm Pomme Cafe,Glendale,AZ,85302,US,"Alcohol, American, Coffee And Tea, Healthy, Juice, Salad, Sandwich",TRUE,TRUE,2.4,19
+Panda Express,Fargo,ND,58105,US,"Asian, Chinese, Family Meals",TRUE,TRUE,3.7,13
+Panda House,Manalapan Township,NJ,7726,US,"Asian, Chicken, Chinese, Dinner, Lunch, Lunch Specials, Noodles, Seafood, Soup, Thai",TRUE,TRUE,4.1,20
+Panera Bread,Fort Myers,FL,33912,US,"American, Bakery, Breakfast, Breakfast And Brunch, Chicken, Coffee, Desserts, Family Meals, Pasta, Pizza, Salad, Sandwich, Sandwiches, Smoothies, Soup",TRUE,TRUE,4.6,176
+Paniniz,Wayne,PA,19087,US,"American, Breakfast, Cafe, Cafes, Fast Food, Italian, Lunch, Pickup, Sandwiches, Takeout",FALSE,TRUE,2,2
+Papa Corazon's Quesadilla HH Hueytown,Jefferson County,AL,35023,US,"American, Breakfast &Amp; Brunch, Salads",FALSE,TRUE,3.1,23
+Papa Corazon's Quesadilla HH Hueytown,Jefferson County,AL,35023,US,"American, Breakfast &Amp; Brunch, Salads",FALSE,TRUE,3.1,20
+Papa Johns Pizza,Manhattan,KS,66502,US,"American, Chicken, Comfort Food, Desserts, Family Friendly, Fast Food, Italian, Italian Food, Pizza, Sandwich, Sandwiches, Wings",TRUE,TRUE,2.8,35
+Papa Johns Pizza,Immokalee,FL,34142,US,"American, Chicken, Comfort Food, Desserts, Family Friendly, Fast Food, Italian, Pizza, Sandwich, Wings",TRUE,TRUE,3.7,32
+Papa Johns Pizza,Seattle,WA,98105,US,"American, Chicken, Comfort Food, Desserts, Family Friendly, Fast Food, Italian, Pizza, Sandwich, Sandwiches, Wings",TRUE,TRUE,4.3,200
+Pardon My Cheesesteak,Indianapolis,IN,46227,US,"American, Desserts, Sandwich",FALSE,TRUE,2.1,20
+Pardon My Cheesesteak,Lansing,IL,60438,US,"American, Desserts, Sandwich",TRUE,TRUE,2.6,24
+Pardon My Cheesesteak - 955 Lawrenceville Suwanee Road,Lawrenceville,GA,30043,US,"American, Desserts, Sandwich",FALSE,TRUE,2.8,16
+Pasqually's Pizza & Wings P464,Attleboro,MA,2703,US,"American, Chicken, Desserts, Dinner, Family Meals, Fast Food, Italian, Lunch Specials, Meatballs, Pizza, Vegetarian Friendly, Wings",FALSE,TRUE,3.8,94
+Pasta Brava,Melbourne,FL,32904,US,"Chicken, Dessert, Dinner, Gluten Free, Healthy, Italian, Pasta, Salad, Salads, Vegan, Vegetarian, Vegetarian Friendly, Wings",TRUE,TRUE,3.4,93
+Pasta Colosseum,Hamilton,MA,1982,US,"American, Comfort Food, Diner, Dinner, Fast Food, Italian, Pasta, Vegetarian",TRUE,TRUE,3.5,6
+Pdq Chicken,Brandenton,FL,34211,US,"American, Chicken, Desserts, Family Meals, Group Friendly, Healthy, Salad, Salads, Sandwich, Sandwiches",TRUE,TRUE,4.5,130
+Pdq Chicken,Tampa,FL,33629,US,"American, Family Meals, Group Friendly, Salad, Sandwich, Sandwiches",TRUE,TRUE,4.7,320
+Pei Wei Asian Express,Greenville,SC,29607,US,"Asian, Asian Fusion, Chicken, Chinese, Noodles",TRUE,TRUE,3,104
+Peng Garden Chinese Restaurant,Foley,AL,36535,US,"Asian, Asian Food, Asian Fusion, Chinese, Family Meals, Japanese, Korean",FALSE,TRUE,4.2,142
+Peoples Organic Cafe - Minnetonka,Minnetonka,MN,55305,US,"American, American (Traditional), Breakfast, Breakfast & Brunch, Burgers, Coffee, Desserts, Salad, Sandwiches, Seafood, Smoothies, Soup, Taco, Vegan",TRUE,TRUE,4.4,28
+Peppers Mexican Grill & Cantina,Tallahassee,FL,32301,US,"Alcohol, American (Traditional), Mexican, New Mexican, Tacos",TRUE,TRUE,4.4,74
+Perkins Restaurant & Bakery,Fort Myers,FL,33903,US,"American, Bakery, Breakfast, Breakfast And Brunch, Burger, Chicken, Desserts, Dinner, Family Meals, Sandwiches, Southern",TRUE,TRUE,4.3,31
+Pescatore Seafood Company - New York,New York City,NY,10017,US,"Deli, Dinner, Lunch, Salads, Seafood",TRUE,TRUE,4,33
+Phat Bites2 2730 Lebanon Pike Suite B,Nashville,TN,37214,US,"American, Breakfast, Burger, Burgers, Desserts, Salad, Salads, Sandwiches, Soup, Taco",FALSE,TRUE,5,74
+Philadelphia Pizza,Ewing Township,NJ,8618,US,"Dinner, Lunch, Pasta, Pizza, Salads",TRUE,TRUE,2.4,5
+Philadelphia Pizza,Ewing Township,NJ,8618,US,"Dinner, Lunch, Pasta, Pizza, Salads",TRUE,TRUE,2.4,5
+Philly Fresh Cheesesteaks,San Diego,CA,92128,US,"Alcohol, American, American (New), Burgers, Cheesesteaks, Desserts, Healthy, Sandwiches",FALSE,TRUE,2.8,19
+Pho Bowl,Fort Myers,FL,33966,US,"Alcohol, Asian, Family Friendly, Noodles, Soup, Vietnamese",TRUE,TRUE,4.7,192
+Pho Bowl,Fort Myers,FL,33966,US,"Alcohol, Asian, Family Friendly, Noodles, Soup, Vietnamese",TRUE,TRUE,4.7,192
+Pho Cyclo And Lounge,Seattle,WA,98004,US,"Healthy, Noodles, Pho, Pickup, Salad, Sandwiches, Soup, Takeout, Vietnamese",TRUE,TRUE,4.6,24
+Pho Place,San Antonio,TX,78248,US,"B√°nh M√¨ 24-27, Children 19-23, Chinese 39-52, Chinese Food, Chow Mein 83-87, Curry 73-77, Dinner, Drinks, Fried Rice 78-82, Grill 54-62, Lemongrass 63-67, Lunch, Pad Thai 68-72, Ph√µ 28-37, Soup/Salad 13-18, Starters 8-12, Vietnamese Food",FALSE,TRUE,4.4,19
+Pho Your Choice,Spartanburg,SC,29301,US,"Noodles, Salads, Soup",TRUE,TRUE,5,47
+Phoreal Vietnamese Cuisine,Reno,NV,89501,US,"Asian, Boba, Pho, Vegan, Vietnamese",TRUE,TRUE,3.5,24
+Piccadilly Cafeteria,Jackson,MS,39211,US,"American, Burgers, Cajun, Chicken, Desserts, Sandwiches, Seafood, Southern",TRUE,TRUE,3.4,24
+Pico Rico,Canyon Country,CA,91387,US,"Bowls, Breakfast, Burritos, Chicken, Dinner, Kids Menu, Latin American, Lunch, Mexican, New Mexican, Salads, Sandwiches, Tacos, Wraps",TRUE,TRUE,4.1,144
+Pieology,Siloam Springs,AR,72761,US,"Desserts, Gluten Free, Gluten-Free, Pizza, Salads",TRUE,TRUE,4.7,74
+Pierre's Eatery,Ellenton,FL,34222,US,"Coffee, Comfort Food, Dessert, Italian, Pasta, Pizza",TRUE,TRUE,2,2
+Piesanos - Otow,Ocala,FL,34481,US,"Burger, Chicken, Group Friendly, Italian, Pasta, Pizza, Salad, Sandwich",FALSE,TRUE,4.6,152
+Pita Pit,Macomb,MI,48044,US,"Artisan Pitas, Breakfast, Build Your Own, Classic Pitas, Dinner, Falafel, Fast Food, For Kids, Healthy, Low Carb, Lunch, Mediterranean, Mediterranean Food, Pitas, Sandwiches, Sides & Drinks, Subs & Sandwiches, Wraps",TRUE,TRUE,4,1
+Pizza & Grill,San Antonio,TX,78208,US,"American, Bistro, Cheesesteak, Chicken, Desserts, Dinner, Family Meals, Fast Food, Fish &Amp; Seafood, Italian, Lunch, Pasta, Pizza, Salads, Sandwiches, Wings",TRUE,TRUE,2.1,667
+Pizza 239,Marco Island,FL,34145,US,"American, Comfort Food, Italian, Pasta, Pizza, Sandwich",FALSE,TRUE,2.9,15
+Pizza Hut,Orange,CA,92865,US,"American, Dinner, Fast Food, Italian, Lunch, Pasta, Pizza, Wings",TRUE,TRUE,4.2,24
+Pizza Hut,West Jordan,UT,84088,US,"American, Dinner, Fast Food, Italian, Lunch, Pasta, Pizza, Wings",TRUE,TRUE,3.7,44
+Pizza Hut,Compton,CA,90220,US,"American, Dinner, Fast Food, Italian, Lunch, Pasta, Pizza, Wings",TRUE,TRUE,3.7,66
+Pizza Hut,Compton,CA,90220,US,"American, Dinner, Fast Food, Italian, Lunch, Pasta, Pizza, Wings",TRUE,TRUE,3.7,66
+Pizza Hut,Forest Hills,PA,15221,US,"Fast Food, Group Friendly, Italian, Pizza, Wings",TRUE,TRUE,3.2,68
+Pizza Ranch,Sun Prairie,WI,53590,US,"Chicken, Dessert, Fried Chicken, Pizza, Wings",TRUE,TRUE,2.9,11
+Pizza Slices by Cono,Glassboro,NJ,8028,US,"Dessert, Hawaiian, Pizza",FALSE,TRUE,2,72
+Pizza Slices by Cono,Glassboro,NJ,8028,US,"Dessert, Hawaiian, Pizza",FALSE,TRUE,2,72
+Pizzeria Lucca,St. Louis Park,MN,55426,US,"Comfort Food, Dessert, Dinner, Italian, Pasta, Pizza, Salads, Sandwiches",TRUE,TRUE,5,166
+Planet Smoothie,Orlando,FL,32814,US,"Desserts, Dinner, Healthy, Juice And Smoothies, Lunch Specials, Smoothies, Smoothies And Juices",TRUE,TRUE,3,3
+Planet Smoothie,Orlando,FL,32814,US,"Desserts, Dinner, Healthy, Juice And Smoothies, Lunch Specials, Smoothies, Smoothies And Juices",TRUE,TRUE,3,3
+Plaza Mexico,Knoxville,TN,37938,US,"Burritos, Chicken, Dessert, Desserts, Latin, Mexican, Salad, Salads, Soup, Taco, Tacos, Vegan, Wings",TRUE,TRUE,5,96
+Poke Box Sushi Bar,Portland,OR,97202,US,"Asian, Fast Food, Japanese, Poke, Sushi, Sushi Bars, Vegetarian",TRUE,TRUE,3.9,20
+Poke Bros - Knoxville,Knoxville,TN,37916,US,"Asian, Desserts, Japanese, Salad, Seafood, Sushi, Vegan, Vietnamese",TRUE,TRUE,4.9,54
+Poke Picnic,Peoria,AZ,85345,US,"Alcohol, Fish, Hawaiian, Japanese, Poke",FALSE,TRUE,2.9,29
+Pomodoro Pizza & More,Brandon,FL,33511,US,"Appetizers & Sides, Baked Pasta, Beverages, Calzone & Stromboli, Chicken, Cold Subs, Desserts, Family Friendly, Group Friendly, Hot Subs, Italian, Lunch Specials, Pasta, Pizza, Salads, Seafood, Season Special, Specialty Pizza, Take Out Specials",TRUE,TRUE,4.9,1325
+Ponce Place,Chicago,IL,60647,US,"American, Healthy, Latin American, Mexican, Vegetarian",FALSE,TRUE,3.6,22
+Popeye's,West Chester,OH,45069,US,"American, Chicken, Fast Food, Fried Chicken, Wings",FALSE,TRUE,3.1,22
+Popeyes,Cincinnati,OH,45211,US,"American, Cajun, Chicken, Dessert, Desserts, Dinner, Fast Food, Lunch, Salads, Sandwiches, Southern",TRUE,TRUE,2,318
+Popeyes,Chicago,IL,60624,US,"American, Chicken, Comfort Food, Family Friendly, Family Meals, Fast Food, Fried Chicken, Southern, Wings",TRUE,TRUE,3.3,268
+Popeyes,St. Louis,MO,63136,US,"American, Cajun, Chicken, Dessert, Dinner, Fast Food, Lunch, Salads, Sandwiches, Southern",TRUE,TRUE,2,166
+Popeyes,Hot Springs,AR,71913,US,"American, Cajun/Creole, Chicken, Comfort Food, Family Meals, Fast Food, Fried Chicken, Sandwiches, Seafood, Southern, Wings",TRUE,TRUE,4.2,38
+Popeyes,Chicago,IL,60620,US,"American, Chicken, Comfort Food, Family Meals, Fast Food, Fried Chicken, Wings",TRUE,TRUE,3.4,400
+Popeyes,Depew,NY,14043,US,"American, Chicken, Comfort Food, Fast Food",FALSE,TRUE,2.9,16
+Popeyes,Houston,TX,77038,US,"American, Chicken, Comfort Food, Family Friendly, Family Meals, Fast Food, Fried Chicken, Southern, Wings",TRUE,TRUE,3.6,28
+Popeyes Louisiana Chicken,Martinez,GA,30907,US,"American, Breakfast, Cajun, Chicken, Comfort Food, Desserts, Family Friendly, Family Meals, Fast Food, Fried Chicken, Sandwiches, Seafood, Southern, Wings",FALSE,TRUE,3.9,100
+Popeyes Louisiana Kitchen,Guadalupe,AZ,85283,US,"American, Chicken, Comfort Food, Family Friendly, Family Meals, Fast Food, Fried Chicken, Southern, Wings",TRUE,TRUE,3.4,114
+Popeyes Louisiana Kitchen,Shreveport,LA,71106,US,"American, Comfort Food, Fast Food",FALSE,TRUE,2.9,10
+Popeyes On Rice St,Saint Paul,MN,55117,US,"American, BBQ, Chicken, Fast Food, Fried Chicken, Sandwiches, Southern, Wings",TRUE,TRUE,4.2,151
+Portland Fried Chicken Cult,Portland,OR,97209,US,"American, Chicken, Comfort Food, Fast Food, Salads, Sandwiches, Wings",TRUE,TRUE,2.5,130
+Portland Fried Chicken Cult,Portland,OR,97209,US,"American, Chicken, Comfort Food, Fast Food, Salads, Sandwiches, Wings",TRUE,TRUE,2.5,130
+Power Market,Rocklin,CA,95765,US,"American, Bowls, Breakfast, Candy, Chicken, Coffee And Tea, Convenience, Deli, Delis, Desserts, Everyday Essentials, Grocery, Grocery Items, Home & Personal Care, Pizza, Salads, Sandwiches, Snacks, Wine, Wings",TRUE,TRUE,3.4,8
+Public House,Los Angeles,CA,90027,US,"American, Burgers, Dessert, Italian, Mexican, Pizza, Salad, Sandwiches, Soul Food",TRUE,TRUE,2.8,4
+Punjabi Dhaba,East Point,GA,30344,US,"Biryani, Chicken, Chicken Tikka Masala, Curry, Dinner, Halal, Indian, Lunch, Rice &Amp; Curry, Vegetarian Friendly",TRUE,TRUE,2.7,166
+Pyramids Cafe,Goodlettsville,TN,37072,US,"Falafel, Greek, Gyro, Mediterranean, Sandwich",TRUE,TRUE,2,4
+Pyramids Cafe,Goodlettsville,TN,37072,US,"Falafel, Greek, Gyro, Mediterranean, Sandwich",TRUE,TRUE,2,4
+Queens,North Miami,FL,33161,US,"Dinner, Pizza, Salads, Snacks",FALSE,TRUE,2,22
+Quiznos,Jackson Hole,WY,83001,US,"American, Deli, Fast Food, Healthy, Salads, Sandwich, Sandwiches, Traditional American",FALSE,TRUE,3.6,68
+Ragazza Pizza,Coral Gables,FL,33134,US,"Cheesesteak, Pasta, Pizza",TRUE,TRUE,2.3,62
+Ragazza Pizza,Coral Gables,FL,33134,US,"Cheesesteak, Pasta, Pizza",TRUE,TRUE,2.3,62
+Ragazza Pizza,Coral Gables,FL,33134,US,"Cheesesteak, Pasta, Pizza",TRUE,TRUE,2.3,62
+Rainforest Cafe,Bloomington,MN,55425,US,"American, BBQ, Breakfast, Burger, Cajun/Creole, Caribbean, Chicken, Gluten-Free, Hamburgers, Pasta, Sandwiches, Seafood",TRUE,TRUE,4,16
+Rainforest Cafe,Bloomington,MN,55425,US,"American, BBQ, Breakfast, Burger, Cajun/Creole, Caribbean, Chicken, Gluten-Free, Hamburgers, Pasta, Sandwiches, Seafood",TRUE,TRUE,4,16
+Ranch Burger Co.,Lynchburg,VA,24504,US,"American, Burgers, Hamburgers, Sandwiches",TRUE,TRUE,2.8,20
+Red Bud Cafe 317 Seabreeze Blvd,Daytona Beach,FL,32118,US,"American, Breakfast, Cafe, Cafes, Coffee, Coffee And Tea, Crepe, Creperies, Dessert, Desserts, European, Gluten Free, Vegetarian",TRUE,TRUE,4.5,64
+Red Robin,Glasgow,DE,19702,US,"American, Burger",TRUE,TRUE,3.3,28
+Red Shark Fish & Chicken,"Hephzibah, Ga",GA,30815,US,"Burger, Burgers, Chicken, Fish And Chips, Healthy, Salad, Salads, Sandwich, Sandwiches, Seafood, Southern, Wings",TRUE,TRUE,4.1,200
+Red Zone Shawarma,Oakland,CA,94607,US,"Dessert, Halal, Salads, Sandwiches, Shawarma, Wraps",TRUE,TRUE,3.1,8
+Rico Pan Bakery Kissimmee,Kissimmee,FL,34741,US,"Bakery, Cafe, Sandwiches",TRUE,TRUE,4.1,10
+Rock Salad,Dubuque,IA,52001,US,"American, Bowls, Dessert, Healthy Food, Salads, Vegetarian",TRUE,TRUE,4.3,35
+Rotunda Cafe,Madison,WI,53704,US,"Bakery, Bakery Food, Breakfast, Free Delivery, Hot Drinks, Iced Drinks, Paul's Pelmeni, Sandwiches, Soda, Soups",FALSE,TRUE,4.5,63
+Route 66 Pizza,Orting,WA,98360,US,"American, Dessert, Fast Food, Healthy Pizza, Lunch, Pizza, Thin Crust Pizza, Veggie Pizza",TRUE,TRUE,2,1
+Route 66 Pizza,Orting,WA,98360,US,"American, Dessert, Fast Food, Healthy Pizza, Lunch, Pizza, Thin Crust Pizza, Veggie Pizza",TRUE,TRUE,2,1
+Royal Farms,Marlton,NJ,8053,US,"American, Chicken, Convenience, Drinks, Everyday Essentials, Fried Chicken, Grocery, Home & Personal Care, Home &Amp; Personal Care, Snacks",TRUE,TRUE,3.4,10
+Ruby Thai Kitchen,Happy Valley,OR,97086,US,"A La Carte Side Dishes, Allergy Friendly, Asian, Bubble Tea, Combo, Drinks, Noodle Bar / Soups, Noodle Bowls, Noodles, Salad Roll, Thai",TRUE,TRUE,2.5,4
+Ruby Tuesday,Marietta,GA,30067,US,"Burgers, Chicken, Dessert, Dinner, Seafood, Steakhouses",FALSE,TRUE,4.1,1419
+Ruchi Bangladeshi Cuisine,Chamblee,GA,30341,US,"Bangladeshi, Catering, Group Friendly, Halal, Indian Food",TRUE,TRUE,4.8,68
+Saddle Up Bar And Grill 4300 Sw 3rd St,Oklahoma City,OK,73108,US,"American (Traditional), Bar and Grill, Hot Dogs, Noodles, Salads, Sandwiches",TRUE,TRUE,2,1
+Saddle Up Bar And Grill 4300 Sw 3rd St,Oklahoma City,OK,73108,US,"American (Traditional), Bar and Grill, Hot Dogs, Noodles, Salads, Sandwiches",TRUE,TRUE,2,1
+SakiTumi Grill & Sushi Bar - Columbia,Columbia,SC,29201,US,"American, American (Traditional), Asian, Asian Fusion, Dessert, Exclusive To Eats, Family Friendly, Japanese, Only Available Here, Sushi",TRUE,TRUE,3,9
+Sam Falafel And Shawarma,Somerville,MA,2143,US,"Halal, Mediterranean, Middle Eastern, Pizza, Sandwiches",FALSE,TRUE,4.8,120
+Santa Maria K Carry Out,Baltimore,MD,21217,US,"American, Burgers, By The Slice Pizza, Italian, Pasta, Pizza, Sandwiches, Seafood",TRUE,TRUE,3.7,107
+Sauced,Largo,FL,33770,US,"American, Bar Food, Breakfast, Burger, Burgers, Desserts, Hamburgers, Italian, Pizza, Salad, Salads, Sandwiches, Subs, Wings, Wraps",TRUE,TRUE,3,1
+Scramblers - Hauck Rd,Sharonville,OH,45241,US,"American, Breakfast And Brunch, Sandwiches",TRUE,TRUE,2.9,30
+Seoul Mate Korean Burgers,Jersey City,NJ,7302,US,"Asian, Burgers, Korean, Wings",TRUE,TRUE,2.9,53
+Sharon's BBQ,Abilene,TX,79606,US,"American, BBQ, Bbq, Chicken, Sandwiches, Southern, Steakhouse",FALSE,TRUE,4,42
+Shawarma Supreme,Sacramento,CA,95819,US,"Bowls, Chicken, Curry, Falafel, Greek, Lamb, Mediterranean, Mexican, Middle Eastern, Salads, Sandwiches, Shawarma, Subs, Vegan Friendly, Vegetarian, Vegetarian Friendly, Wraps",TRUE,TRUE,2.6,8
+Shep's Diner,Melbourne,FL,32935,US,"American, Breakfast, Diner, Salads, Sandwiches",TRUE,TRUE,5,118
+Shrimp House Fish & Chicken,Calumet Park,IL,60827,US,"Dinner, Fish &Amp; Seafood, Fried Chicken, Lunch, Sandwiches, Seafood, Wings",TRUE,TRUE,3.9,25
+Sincerely Yogurt,Bridgeville,PA,15017,US,"American, Bubble Tea, Cafe, Comfort Food, Dessert, Desserts, Frozen Yogurt, Healthy, Ice Cream & Frozen Yogurt, Ice Cream &Amp; Frozen Yogurt, Smoothies And Juices",FALSE,TRUE,3.4,5
+Slims Bbq,Port Orange,FL,32127,US,"Alcohol, American, BBQ, Bbq, Burgers, Sandwiches",TRUE,TRUE,2.8,115
+Smashburger,Plymouth,MN,55447,US,"American, Burgers",TRUE,TRUE,3.7,44
+Smokey's BBQ Sandwiches,Orlando,FL,32832,US,"Barbeque, Bbq, Pickup, Sandwiches, Takeout",FALSE,TRUE,2.5,4
+Smoothie King 2090 W. Pleasant Grove Rd.,Rogers,AR,72758,US,"American, Breakfast, Breakfast And Brunch, Dessert, Dinner, Fresh Fruits, Gluten-Free, Healthy, Juice And Smoothies, Keto, Kids Friendly, Low Carb, Low Fat, Lunch, Shakes, Smoothie, Smoothies And Juices, Snacks, Vegan, Vegetarian",TRUE,TRUE,3,1
+Sombrero's Restaurant,Fond du Lac,WI,54937,US,"American, American Food, Dessert, Kids Menu, Latin American, Mexican, Mexican Food, New Mexican, Salads, Seafood",TRUE,TRUE,4,77
+Sonic,Denton,TX,76205,US,"American, Burgers, Chicken, Comfort Food, Desserts, Fast Food",FALSE,TRUE,3.8,34
+Sonic,Evansville,IN,47715,US,"American, Burgers, Chicken, Comfort Food, Desserts, Fast Food",FALSE,TRUE,3.6,20
+Sonic at 616 W. Pinhook / Oil Center,Lafayette,LA,70503,US,"American, Breakfast, Burger, Chicken, Coffee, Desserts, Fast Food, Hot Dog, Sandwich, Sandwiches",TRUE,TRUE,3.4,14
+Sonic on Ambassador Caffery Pkwy.,Lafayette,LA,70506,US,"American, Breakfast, Burger, Coffee, Desserts, Fast Food, Hot Dog, Sandwich, Sandwiches, Wings",TRUE,TRUE,4.1,17
+Soul Food Sundayz,Hartford,CT,6114,US,"Burgers, Soul Food, Southern",TRUE,TRUE,3.5,93
+Soup Kettle,Pittsburgh,PA,15217,US,"Bagels, Comfort Food, Deli, Jewish, Noodles, Sandwiches, Soup, Vegetarian",TRUE,TRUE,2.3,138
+Spinx,Greenville,SC,29605,US,"American, Breakfast, Chicken, Fast Food, Lunch, Southern, Southwestern",TRUE,TRUE,4,1
+Stan's Burger Bar,San Francisco,CA,94109,US,"American, Burgers, Chicken, Comfort Food, Comfortfood, Dessert, Dinner, Fast Food, Hamburgers, Healthy, Lunch, New American, Salad, Sandwiches, Snacks, Vegan, Vegetarian, Wings",TRUE,TRUE,2.8,6
+Star Thai and Sushi,Siesta Key,FL,34242,US,"Asian, Japanese, Soup, Sushi, Thai",FALSE,TRUE,3.7,26
+Starbucks,San Pablo,CA,94806,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,53
+Starbucks,Naples,FL,34109,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, Whole Bean",FALSE,TRUE,4.3,82
+Starbucks,Sacramento,CA,95822,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,31
+Starbucks,Orem,UT,84097,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Group Friendly, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,34
+Starbucks,Grand Forks,ND,58201,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.2,24
+Starbucks,Oak Park,MI,48237,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.5,76
+Starbucks,Indianapolis,IN,46229,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, Whole Bean",FALSE,TRUE,4.1,15
+Starbucks,Rochester,NY,14621,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.4,200
+Starbucks,Carpentersville,IL,60110,US,"Bakery, Cafe, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Group Friendly, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.4,18
+Starbucks,Norman,OK,73069,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,24
+Starbucks,West Hollywood,CA,90069,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.9,165
+Starbucks,Fayetteville,NC,28311,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Group Friendly, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,42
+Starbucks,Harrisburg,PA,17111,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.4,43
+Starbucks,Dearborn,MI,48126,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, Whole Bean",FALSE,TRUE,4.2,48
+Starbucks,Humble,TX,77346,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Group Friendly, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, Whole Bean",FALSE,TRUE,4.9,32
+Starbucks,Orange Park,FL,32073,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,30
+Starbucks,Fond Du Lac,WI,54935,US,"Bakery, Bakery Food, Breakfast, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, National Brand",FALSE,TRUE,3.2,18
+Starbucks,Silverdale,WA,98383,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.2,24
+Starbucks,Palmdale,CA,93551,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,116
+Starbucks,Santa Ana,CA,92704,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.4,38
+Starbucks,Waterloo,IA,50702,US,"Bakery, Bakery Food, Breakfast, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, National Brand, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,2.6,7
+Starbucks,Livonia,MI,48150,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.2,40
+Starbucks,Larkspur,CA,94939,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Group Friendly, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,62
+Starbucks,Amherst,NY,14228,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.7,133
+Starbucks,Springfield,MA,1105,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, Whole Bean",FALSE,TRUE,4.4,46
+Starbucks,Hawthorne,CA,90250,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,20
+Starbucks,New Albany,IN,47150,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, Whole Bean",FALSE,TRUE,4.2,22
+Starbucks,Sioux Falls,SD,57104,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,28
+Starbucks,Arden Hills,MN,55126,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,40
+Starbucks,Buffalo,NY,14216,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,85
+Starbucks,Chesterfield,MO,63017,US,"Bakery, Cafe, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,66
+Starbucks,Reno,NV,89523,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Group Friendly, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.9,22
+Starbucks,Philadelphia,PA,19114,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,145
+Starbucks,Warwick,RI,2886,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,34
+Starbucks,Reno,NV,89511,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.5,52
+Starbucks,Indianapolis,IN,46278,US,"Bakery, Breakfast And Brunch, Cafe, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.1,22
+Starbucks,Pomona,CA,91766,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,42
+Starbucks,Tucson,AZ,85714,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,23
+Starbucks,Bismarck,ND,58504,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,24
+Starbucks,New Albany,IN,47150,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, Whole Bean",FALSE,TRUE,4.2,22
+Starbucks,Prescott,AZ,86301,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, VIA¬Æ Instant, Whole Bean",FALSE,TRUE,4.3,15
+Starbucks,Omaha,NE,68130,US,"Bakery, Breakfast And Brunch, Cafe, Coffee & Tea, Coffee &Amp; Tea, Cold Coffees, Cold Drinks, Frappuccino Blended Beverages, Frappuccino¬Æ Blended Beverages, Hot Breakfast, Hot Coffees, Hot Drinks, Hot Teas, Iced Teas, Lunch, Snacks & Sweets, VIA Instant, Whole Bean",FALSE,TRUE,4.5,32
+Steak 'n Shake,Miami,OH,45342,US,American,TRUE,TRUE,3.8,44
+Steak 'n Shake,West Melbourne,FL,32904,US,"American, Burger, Chicken, Desserts, Sandwiches",TRUE,TRUE,4.4,200
+Steak 'n Shake,Florence,KY,41042,US,"American, Hamburgers, Shakes",TRUE,TRUE,4.1,186
+Steam Up (Broadway) (Broadway Ave),New York,NY,10019,US,"Asian, Chinese, Dim Sum",FALSE,TRUE,2,244
+Stella Artisan Italian,Ridgewood,NJ,7450,US,"Breakfast, Breakfast And Brunch, Breakfast Specials, Cafe, Deli, Dinner Hand Crafted Pastas, Dinner Kid's Specials, Dinner Meats, Dinner Salads, Dinner Starters, Healthy, Italian, Lunch, Lunch Appetizers, Lunch Burgers, Lunch Hand Crafted Pastas, Lunch Kid's Specials, Lunch Paninis, Lunch Salads, Lunch Steaks, Pasta, Salads",TRUE,TRUE,3.5,4
+Steve's Lounge,Chicago,IL,60633,US,"Caterers, Chicken, Healthy, Salads, Seafood",TRUE,TRUE,1,1
+Stoby's Russellville - Russellville,Russellville,AR,72801,US,"American, American (New), American (Traditional), Bakery, Breakfast, Burger, Burgers, Chicken, Lunch, Pasta, Salad, Sandwiches, Soup, Steakhouse",TRUE,TRUE,4.5,679
+Sub Station II,Spartanburg,SC,29301,US,"American, Sandwiches",FALSE,TRUE,3,14
+Subway,Green Bay,WI,54301,US,"American, Fast Food, Healthy Food, National Brand, Sandwich, Sandwiches, Subs, Subs & Sandwiches, Wraps",TRUE,TRUE,4,2
+Subway,Russellville,AL,35653,US,"American, Breakfast, Catering, Delis, Dessert, Dinner, Fast Food, Healthy, Lunch, Pickup, Salad, Salads, Sandwich, Sandwiches, Takeout",TRUE,TRUE,3.3,13
+Subway,Milwaukee,WI,53211,US,"American, Dinner, Fast Food, Healthy Food, Lunch, National Brand, Sandwich, Sandwiches, Subs, Subs & Sandwiches",TRUE,TRUE,3,362
+Subway,Harahan,LA,70123,US,"Breakfast, Healthy, Pizza, Salad, Salads, Sandwich, Sandwiches",TRUE,TRUE,4.2,20
+Subway,Dekalb,IL,60115,US,"American, Fast Food, Healthy Food, National Brand, Sandwich, Subs & Sandwiches",TRUE,TRUE,1.8,6
+Subway,Chicago,IL,60608,US,"American, Breakfast, Dinner, Healthy, Lunch Specials, Salads, Sandwich, Sandwiches, Subs",TRUE,TRUE,3.7,80
+Subway,Appleton,WI,54914,US,"American, Fast Food, Healthy Food, National Brand, Sandwich, Subs & Sandwiches",TRUE,TRUE,3.9,5
+Subway,Madison,WI,53716,US,"American, Fast Food, Healthy, Healthy Food, Sandwich, Sandwiches, Subs, Subs & Sandwiches, Wraps",TRUE,TRUE,2.9,25
+Subway,Madison,WI,53719,US,"American, Fast Food, Healthy Food, National Brand, Sandwich, Subs & Sandwiches",FALSE,TRUE,2.1,16
+Subway,Harahan,LA,70123,US,"Breakfast, Healthy, Pizza, Salad, Salads, Sandwich, Sandwiches",TRUE,TRUE,4.2,20
+Subway,Sheboygan Falls,WI,53085,US,"American, Fast Food, Healthy Food, National Brand, Sandwich, Subs & Sandwiches",TRUE,TRUE,2.7,10
+Sunnyvale Farms Sandwiches,Atlanta,GA,30309,US,Sandwiches,FALSE,TRUE,2,4
+Sunnyvale Farms Sandwiches,Atlanta,GA,30309,US,Sandwiches,FALSE,TRUE,2,4
+Sunnyvale Farms Sandwiches,Atlanta,GA,30309,US,Sandwiches,FALSE,TRUE,2,4
+Super Buffet,Olympia,WA,98516,US,"Asian, Asian Fusion, Buffets, Chinese, Pickup, Takeout",TRUE,TRUE,4.4,189
+Super Fried,El Cajon,CA,92021,US,"American, Chicken, Comfort Food, Dessert, Dinner, Fast Food, Salads, Sandwiches, Wings",FALSE,TRUE,2.4,13
+Super Mega Dilla,Port St. Lucie,FL,34986,US,"Burritos, Late Night, Mexican, New American, Tacos, Tex Mex, Tex-Mex",TRUE,TRUE,2.7,25
+Super Mega Dilla,Jupiter,FL,33458,US,"Mexican, New American, Sandwiches, Tex Mex",TRUE,TRUE,3.1,10
+Super Mega Dilla,Corpus Christi,TX,78411,US,"Burritos, Late Night, Mexican, New American, Tacos, Tex Mex, Tex-Mex",TRUE,TRUE,2.5,19
+Super Mega Dilla,Irving,TX,75061,US,"Mexican, New American, Tex Mex",TRUE,TRUE,3.1,20
+Super Mega Dilla,Port St. Lucie,FL,34986,US,"American, Mexican, New American, Sandwiches, Tex Mex",FALSE,TRUE,2.5,21
+Super Mega Dilla,San Angelo,TX,76904,US,"Burritos, Late Night, Mexican, New American, Tacos, Tex Mex, Tex-Mex",TRUE,TRUE,2.6,23
+Super Mega Dilla,Parker,CO,80134,US,"Burritos, Late Night, Mexican, New American, Tacos, Tex Mex, Tex-Mex",TRUE,TRUE,2.6,20
+Super Mega Dilla,Wichita,KS,67209,US,"Mexican, New American, Tex Mex",FALSE,TRUE,2.7,46
+Super Mega Dilla,Tulsa,OK,74145,US,"Burritos, Late Night, Mexican, New American, Tacos, Tex Mex, Tex-Mex",TRUE,TRUE,2.7,37
+Super Mega Dilla,Fishers,IN,46037,US,"Burritos, Late Night, Mexican, New American, Tacos, Tex Mex, Tex-Mex",TRUE,TRUE,2.5,25
+Super Mega Dilla,Austin,TX,78744,US,"Mexican, New American, Tex Mex",TRUE,TRUE,2.4,23
+Sweet Brownie Sandwich,Orlando,FL,32805,US,"Alcohol, American, Burgers, Coffee And Tea, Dessert, Sandwiches",TRUE,TRUE,1,1
+Sweetpea's Table,Olive Branch,MS,38654,US,Dinner,TRUE,TRUE,3.6,5
+Szechuan Tokyo,Nottingham,MD,21236,US,"Asian, Chinese, Noodles, Seafood, Sushi, Wings",TRUE,TRUE,3.8,40
+Taco Bell,La Crosse,WI,54601,US,"Bowls, Breakfast, Breakfast And Brunch, Burritos, Chicken, Coffee And Tea, Dessert, Dinner, Donuts, Fast Food, Late Night, Lunch, Mexican, Mexican Food, National Brand, Potato, Steak, Tacos, Tex-Mex, Vegetarian",FALSE,TRUE,2.5,464
+Taco Bell,Bangor,ME,4401,US,"American, Family Friendly, Family Meals, Fast Food, Wings",TRUE,TRUE,3.3,35
+Taco Bell,Saint Louis,MO,63114,US,"Breakfast And Brunch, Burritos, Fast Food, Mexican, Tacos",TRUE,TRUE,3.8,132
+Taco Bell,Port Wentworth,GA,31407,US,"Breakfast And Brunch, Burritos, Fast Food, Mexican, Tacos",TRUE,TRUE,3.5,46
+Taco Bell,Clarkston,MI,48346,US,"Bowls, Breakfast, Breakfast And Brunch, Burritos, Chicken, Coffee And Tea, Dessert, Dinner, Donuts, Fast Food, Late Night, Lunch, Mexican, Potato, Steak, Tacos, Tex-Mex, Vegetarian",TRUE,TRUE,2,361
+Taichi Asian Grill House,Indianapolis,IN,46202,US,"Asian, Asian Food, BBQ, Chinese, Dinner, Fusion, Japanese, Lunch, Sushi",TRUE,TRUE,2.6,5
+Taiwan Pork Chop House,New York,NY,10013,US,"Asian, Chinese, Group Friendly, Only Available Here, Taiwanese",TRUE,TRUE,4.8,52
+Taqueria La Herradura #1,Pharr,TX,78577,US,"Latin American, Mexican, New Mexican",FALSE,TRUE,4.8,49
+Taqueria Rancho Chico,Kenner,LA,70062,US,"American, Fast Food, Mexican, New Mexican, Taco, Tex Mex, Wings",TRUE,TRUE,4.1,20
+Tartine & Tartelette,Naples,FL,34110,US,French,FALSE,TRUE,1,1
+Taste Grill,Boone,NC,28607,US,"Asian, Asian Food, Asian Fusion, Chinese, Japanese, Korean",FALSE,TRUE,4.5,1415
+Tasty Baghdad Restaurant,Kansas City,MO,64119,US,"Appetizers, Arabian, Beverages, Chicken, Desserts, Grills, Hamburger, Kids Menu, Main Entrees, Middle Eastern, Milk Shakes, Salads, Sandwiches, Side Orders, Soups",TRUE,TRUE,2.8,9
+Tasty Baghdad Restaurant,Kansas City,MO,64119,US,"Appetizers, Arabian, Beverages, Chicken, Desserts, Grills, Hamburger, Kids Menu, Main Entrees, Middle Eastern, Milk Shakes, Salads, Sandwiches, Side Orders, Soups",TRUE,TRUE,2.8,9
+TenderFix by Noah Schnapp,Boulder,CO,80301,US,"Plant Based, Vegetarian",TRUE,TRUE,1.7,12
+TenderFix by Noah Schnapp,Boulder,CO,80301,US,"Plant Based, Vegetarian",TRUE,TRUE,1.7,12
+TenderFix by Noah Schnapp,N. Charleston,SC,29418,US,"Plant Based, Vegetarian",TRUE,TRUE,3.1,14
+Tendies Chicken Tender,Kennesaw,GA,30144,US,"American, Burgers, Chicken, Chicken Tenders, Classic, Comfort Food, Dinner, Fast Food, Fried Chicken, Kids Friendly, Lunch, Sandwiches, Southern",FALSE,TRUE,2.5,30
+Teuscher Chocolates Of Switzerland,Beverly Hills,CA,90210,US,"Candy, Chocolates, Dessert, Must Try, Snacks",TRUE,TRUE,3.6,5
+Tgi Fridays,Nashville,TN,37214,US,"American, Bar Food, Burgers, Family Meals, Hamburgers, Pasta, Ribs, Steak, Wings",TRUE,TRUE,3.8,29
+Thai Ginger,Lowell,AR,72745,US,"Asian, Chinese, Noodles, Soup, Thai",TRUE,TRUE,4.5,65
+The Big Melt Society,Bradenton,FL,34210,US,"American, Burger, Burgers, Classic, Dessert, Dinner, Fast Food, Greek, Gyro, Hamburgers, Late Night, Lunch, Potato, Pub Food, Salads, Sandwiches, Snacks, Soup, Wings",TRUE,TRUE,3,5
+The Breakfast Company Braden River,Bradenton,FL,34203,US,"Bakery, Breakfast, Breakfast And Brunch, Coffee, Greek, Sandwiches",TRUE,TRUE,4.8,49
+The Burger Den,N Kansas City,MO,64116,US,"American, Burgers, Cheese, Comfort Food, Fast Food, Sandwich, Vegetarian Friendly",TRUE,TRUE,3.4,20
+The Burger Den,West Saint Paul,MN,55118,US,"American, Burgers, Comfort Food, Fast Food, Sandwich, Vegetarian Friendly",TRUE,TRUE,3.5,28
+The Burger Den,Pittsburgh,PA,15220,US,"American, American (Traditional), Bar, Breakfast, Burgers, Cheese, Chicken, Comfort Food, Dinner, Fast Food, Lunch, Sandwich, Sandwiches, Vegetarian, Vegetarian Friendly",TRUE,TRUE,3.7,153
+The Burger Experience,Columbus,GA,31901,US,"American, Burgers, Comfort Food",FALSE,TRUE,2.9,24
+The Cajun Wave,Gulfport,MS,39501,US,"Allergy Friendly, American, Cajun/Creole, Seafood, Southern",TRUE,TRUE,3.9,17
+The Codfather Fish N Chips,Las Vegas,NV,89119,US,"Fish &Amp; Seafood, Fried Foods, Seafood",FALSE,TRUE,1.8,12
+The Codfather Fish N Chips,Las Vegas,NV,89119,US,"Fish &Amp; Seafood, Fried Foods, Seafood",FALSE,TRUE,1.8,12
+The Codfather Fish N Chips,Las Vegas,NV,89119,US,"Fish &Amp; Seafood, Fried Foods, Seafood",FALSE,TRUE,1.8,12
+The Ice Cream Shop,Worth,IL,60482,US,"Convenience, Dessert, Desserts, Ice Cream, Ice Cream + Frozen Yogurt, Ice Cream And Frozen Yogurt, Sweets",FALSE,TRUE,2.8,20
+The Juicy Crab - Winterville,Greenville,NC,28590,US,"American, Seafood, Southern",TRUE,TRUE,3.3,22
+The Place To Sea,Philadelphia,PA,19124,US,Seafood,TRUE,TRUE,2,1
+The Saffron Biryani,Jersey City,NJ,7306,US,"Chicken, Coffee And Tea, Dessert, Indian, Seafood, Soup, Vegetarian",TRUE,TRUE,2.5,63
+The Saffron Biryani,Jersey City,NJ,7306,US,"Chicken, Coffee And Tea, Dessert, Indian, Seafood, Soup, Vegetarian",TRUE,TRUE,2.5,63
+The Salad Snob- Fremont,Fremont,CA,94538,US,"American, Chicken, Dessert, Fast Food, Healthy, Salad, Salads, Sandwich, Smoothies And Juices, Vegan, Wraps",TRUE,TRUE,2.6,89
+The Spot,LaGrange,GA,30240,US,"American, Breakfast And Brunch, Coffee And Tea, Salads",FALSE,TRUE,2.3,3
+The Stretch Restaurant,Fond du Lac,WI,54937,US,"Breakfast, Burgers, Dessert, Pasta, Seafood, Subs & Sandwiches",TRUE,TRUE,1.8,7
+The Stretch Restaurant,Fond du Lac,WI,54937,US,"Breakfast, Burgers, Dessert, Pasta, Seafood, Subs & Sandwiches",TRUE,TRUE,1.8,7
+Thrilled Cheese,Raleigh,NC,27604,US,"Comfort Food, Deli, Dinner, Late Night, Lunch, New American, Sandwich, Sandwiches",TRUE,TRUE,2.6,12
+Thrilled Cheese,Fargo,ND,58104,US,"Comfort Food, New American, Sandwich",FALSE,TRUE,2.6,10
+Thrilled Cheese,Jacksonville,FL,32210,US,"American, Comfort Food, Deli, Dinner, Late Night, Lunch, New American, Sandwich, Sandwiches",TRUE,TRUE,1.9,13
+Thrilled Cheese,Virginia Beach,VA,23462,US,"Comfort Food, New American, Sandwich",TRUE,TRUE,2.8,13
+Thrilled Cheese,Virginia Beach,VA,23462,US,"Comfort Food, New American, Sandwich",TRUE,TRUE,3.1,13
+Thrilled Cheese,Durham,NC,27705,US,"Comfort Food, Deli, Dinner, Late Night, Lunch, New American, Sandwich, Sandwiches",TRUE,TRUE,2.7,57
+Tijuana Flats,Kissimmee,FL,34747,US,"Bowls, Burritos, Chicken, Desserts, Dinner, Kids Menu, Lunch, Mexican, Seafood, Taco, Tacos, Tex-Mex, Wings",TRUE,TRUE,3,88
+Tim Horton's,Columbus,OH,43219,US,"Bakery, Breakfast, Breakfast And Brunch, Cafe, Coffee, Coffee And Tea, Dessert, Donuts, Drinks, Fast Food, Lunch, Sandwiches, Sweets",FALSE,TRUE,3.7,331
+Tokyo Grill,Lexington,SC,29073,US,"Asian, Japanese, Sushi",TRUE,TRUE,4.2,20
+Tony's Pizzeria,Miami,FL,33135,US,"American, Italian, Pizza",TRUE,TRUE,2.9,11
+Topped Waikiki,Honolulu,HI,96815,US,"Asian, Bbq, Chicken, Korean",TRUE,TRUE,4.7,80
+Topped Waikiki,Honolulu,HI,96815,US,"Asian, Bbq, Chicken, Korean",TRUE,TRUE,4.7,80
+Treme Kitchen,Los Angeles,CA,90004,US,"Alcohol, American, American Breakfast, Appetizers, Asian, Bakery, Bowls, Breakfast, Breakfast & Brunch, Breakfast and Lunch, Cakes, Chicken, Chicken Tenders, Chinese, Dessert, Desserts, Dinner, Dinners, Drinks, Family Meals, Fried Chicken, Gluten Free, Halal, Healthy, Ice Cream, Lunch, Mediterranean, Noodle Dishes, Pancakes, Persian, Pickup, Pizza, Poke, Rice Dishes, Rice-Bowls, Salad, Salads, Sides, Snacks, Soups / Salads, Southern, Sweets, Takeout, Vegan, Vegetarian, Weekend Only, Wings, breakfast",TRUE,TRUE,3.2,10
+Tropical Bites,Gainesville,VA,20109,US,"Caribbean, Family Meals, Group Friendly",TRUE,TRUE,3.5,40
+Tropical Smoothie Cafe,Saint Johns,FL,32259,US,"American, Chicken, Desserts, Fast Food, Healthy, Juice And Smoothies, Sandwich, Sandwiches, Smoothies, Smoothies And Juices, Vegan, Wraps",TRUE,TRUE,5,84
+Tropical Smoothie Cafe,Farragut,TN,37934,US,"Fast Food, Healthy, Juice And Smoothies, Juiceandsmoothie, Sandwich, Sandwiches, Smoothies",TRUE,TRUE,4.9,52
+Two Brothers Pizza,Harrisburg,PA,17101,US,"Allergy Friendly, Italian, Pizza, Sandwich",FALSE,TRUE,3.7,46
+Tyga Bites,Round Rock,TX,78664,US,"American, Chicken, Chicken Wings, Dessert, Desserts, Dinner, Lunch, Sandwich, Sandwiches",FALSE,TRUE,2.1,20
+Tyga Bites,Woodbury,MN,55129,US,"American, Chicken, Chicken Strips, Dessert, Sandwich, Wings",FALSE,TRUE,3,6
+U & Jerk,Washington,DC,20009,US,Caribbean,TRUE,TRUE,2,203
+U & Jerk,Washington,DC,20009,US,Caribbean,TRUE,TRUE,2,203
+Umi Sushi & Hibachi,Blaine,MN,55449,US,"Asian, Asian Fusion, Group Friendly, Japanese, Sushi, Sushi Bars",TRUE,TRUE,4.6,1971
+Valero Seafood,Mobile,AL,36612,US,"Asian, Chinese, Fast Food, Fish And Chips, Seafood, Wings",TRUE,TRUE,2.5,4
+Vegan Burger Island,Pittsburgh,PA,15203,US,"American, Breakfast, Breakfast And Brunch, Brunch, Burgers, Chicken, Comfort Food, Dessert, Desserts, Dinner, Fast Food",TRUE,TRUE,3.2,49
+Vegan La,Los Angeles,CA,90066,US,"Asian, Asian Fusion, Indian, Korean, Takeout, Thai, Vegetarian",FALSE,TRUE,2.3,3
+Vegan La,Los Angeles,CA,90066,US,"Asian, Asian Fusion, Indian, Korean, Takeout, Thai, Vegetarian",FALSE,TRUE,2.3,3
+Vegan La,Los Angeles,CA,90066,US,"Asian, Asian Fusion, Indian, Korean, Takeout, Thai, Vegetarian",FALSE,TRUE,2.3,3
+Vegan La,Los Angeles,CA,90066,US,"Asian, Asian Fusion, Indian, Korean, Takeout, Thai, Vegetarian",FALSE,TRUE,2.3,3
+Vegetable Garden,Silver Spring,MD,20906,US,"American, Asian, Chinese, Dinner, Hamburgers, Healthy, Lunch Specials, Sushi, Vegan, Vegetarian",TRUE,TRUE,5,75
+Vincent's Pizza,Shirley,NY,11976,US,"American, Calzones, Dinner, Fries, Grandma Pizza, Italian, Pasta, Pizza, Salads, Sicilian Pizza",TRUE,TRUE,3.2,15
+Vintage Spirits & Grill 529 University Ave,Madison,WI,53703,US,"American, American Food, Bar/Pub Food, Breakfast, Burgers, Dinner, Lunch, Sandwiches, Subs & Sandwiches",TRUE,TRUE,3.3,65
+Viva Mexico 406,Palisades Park,NJ,7650,US,"Aguas Frescas, Appetizers, Beef & Pork, Breakfast Platters, Breakfast Sandwiches, Burgers, Burrito Bowls, Burritos, California Tacos, Chicken, Chimichanga, Classic Mexican Quesadilla, Coffee Bar, Cold Drinks, Desserts, Fajitas, Gringas, Healthy Juice Bar, Latin American, Mexican, Quesadillas, Salads, Seafood, Side Order, Smoothies, Soup, Special Tacos, Street Tacos, Taco Clasicos, Tacos, Tortas, Tostadas",TRUE,TRUE,2,3
+Viva Mexico 406,Palisades Park,NJ,7650,US,"Aguas Frescas, Appetizers, Beef & Pork, Breakfast Platters, Breakfast Sandwiches, Burgers, Burrito Bowls, Burritos, California Tacos, Chicken, Chimichanga, Classic Mexican Quesadilla, Coffee Bar, Cold Drinks, Desserts, Fajitas, Gringas, Healthy Juice Bar, Latin American, Mexican, Quesadillas, Salads, Seafood, Side Order, Smoothies, Soup, Special Tacos, Street Tacos, Taco Clasicos, Tacos, Tortas, Tostadas",TRUE,TRUE,2,3
+Viva Napoli,Tampa,FL,33629,US,"Alcohol, American, Dessert Pizza, Italian, Neapolitan Pizza, Pizza",TRUE,TRUE,3.9,32
+Waverly Parkway Convenience Store,Opelika,AL,36801,US,"Convenience, Everyday Essentials, Grocery, Home & Personal Care, Home &Amp; Personal Care, Snacks",TRUE,TRUE,3.5,2
+Wavy Baby Subs,Austin,TX,78759,US,"Alcohol, American, Healthy, Sandwiches",FALSE,TRUE,2.6,9
+Wendy's,Orangeburg,SC,29115,US,"American, Burgers, Fast Food",TRUE,TRUE,2.4,23
+Wendy's,Reading,PA,19607,US,"American, Breakfast, Burgers, Chicken, Dinner, Fast Food, Hamburgers, Lunch",TRUE,TRUE,2.3,286
+Wendy's,Anchorage,AK,99503,US,"American, Breakfast, Burgers, Chicken, Dinner, Fast Food, Hamburgers, Lunch",TRUE,TRUE,3.2,376
+Wendy's,Rochester,NY,14626,US,"American, Breakfast, Burgers, Chicken, Dinner, Fast Food, Hamburgers, Lunch",TRUE,TRUE,3.4,40
+Wendy's,Overland Park,KS,66211,US,"American, Burgers, Fast Food",TRUE,TRUE,3.6,27
+Wendy's,Philadelphia,PA,19121,US,"American, Breakfast, Burgers, Chicken, Dinner, Fast Food, Hamburgers, Lunch",TRUE,TRUE,2.4,924
+Wild Bill's Juke Joint,Memphis,TN,38107,US,"American, Burgers, Hamburgers, Sandwiches, Smoothies And Juices, Snacks, Wings",TRUE,TRUE,2.7,119
+Wild Burger,Manitowoc,WI,54220,US,"American, American Food, Bar/Pub Food, Burgers, Chicken, Free Delivery, Subs & Sandwiches, Wings",TRUE,TRUE,2.7,124
+Wild Wild Wings,Brookfield,WI,53005,US,"American Food, Burgers, Desserts, Family Meals, Fast Food, Subs & Sandwiches, Wings",TRUE,TRUE,1.9,14
+Wild Wild Wings,Pittsburgh,PA,15205,US,"American, Chicken, Wings",TRUE,TRUE,3.1,16
+Wing Boss,Solvang,CA,93463,US,"American, BBQ, Bar Food, Barbecue, Bbq, Cajun, Catering, Chicken, Chicken Tenders, Chicken Wings, Comfort Food, Dessert, Dinner, Family Meals, Fried Chicken, Fries, Late Night, Lunch, Spicy Chicken, Wings",TRUE,TRUE,2,10
+Wing Boss,Rogers,AR,72758,US,"American, BBQ, Barbecue, Catering, Chicken, Chicken Tenders, Chicken Wings, Comfort Food, Dessert, Family Meals, Fried Chicken, Fries, Spicy Chicken, Wings",TRUE,TRUE,3.3,58
+Wing Boss,Solvang,CA,93463,US,"American, BBQ, Bar Food, Barbecue, Bbq, Cajun, Catering, Chicken, Chicken Tenders, Chicken Wings, Comfort Food, Dessert, Dinner, Family Meals, Fried Chicken, Fries, Late Night, Lunch, Spicy Chicken, Wings",TRUE,TRUE,2,10
+Wing Boss,Granbury,TX,76049,US,"American, Bar Food, Bbq, Cajun, Chicken, Desserts, Drinks, Fowl Play, Lil' Boss, Order Menu - By The Piece, Order Menu - Group Pack Wings, Order Menu - Tender Combos & Packs, Order Menu - Tenders, Side Shows, Wings",TRUE,TRUE,2.7,11
+Wing Boss,Wesley Chapel,FL,33544,US,"American, Chicken, Desserts, Drinks, Fowl Play, Group Pack Wings, Lil' Boss, Order Menu - By The Piece, Order Menu - Limited Time Only!, Side Shows, Southern, Tenders, Wings",TRUE,TRUE,3,7
+Wing Pop,Concord,CA,94519,US,"Alcohol, American, Boneless Wings, Burgers, Chicken Wings, Fast Food, Sandwiches, Vegetarian Friendly, Wings",TRUE,TRUE,1,1
+Winged Dreams,San Diego,CA,92101,US,"American, Chicken, Dinner, Fast Food, Wings",TRUE,TRUE,2.3,10
+Wingmen,Roswell,GA,30075,US,"American, Chicken, Chicken Wings, Classic, Comfort Food, Dinner, Fast Food, Kids Friendly, Lunch, Southern, Wings",TRUE,TRUE,2.4,13
+Wingmen,Roswell,GA,30075,US,"American, Chicken, Chicken Wings, Classic, Comfort Food, Dinner, Fast Food, Kids Friendly, Lunch, Southern, Wings",TRUE,TRUE,2.4,13
+Wingmen,Roswell,GA,30075,US,"American, Chicken, Chicken Wings, Classic, Comfort Food, Dinner, Fast Food, Kids Friendly, Lunch, Southern, Wings",TRUE,TRUE,2.4,13
+Wings Out,Henrico County,VA,23233,US,"American, Chicken, Wings",TRUE,TRUE,3.3,20
+Wings Out,Henrico County,VA,23233,US,"American, Chicken, Wings",TRUE,TRUE,3.3,20
+Wings Wings Wings - Sedgwick,Chicago,IL,60610,US,"American, Fast Food, Halal, Wings, Wraps",TRUE,TRUE,2.9,25
+Wingstop,Gaithersburg,MD,20879,US,"American, Chicken, Fried Chicken, Wings",TRUE,TRUE,4.6,241
+Wingstop,Bradenton,FL,34208,US,"American, Chicken, Fried Chicken, Wings",TRUE,TRUE,4.2,200
+Wingstop,Nashville,TN,37211,US,"American, Chicken, Fried Chicken, Wings",TRUE,TRUE,4.1,200
+Wingtopia,Los Angeles,CA,91403,US,"American, Bbq, Chicken, Chicken Wings, Italian, Pizza, Wings",TRUE,TRUE,2.3,3
+Wow Bao,Lakewood,CO,80226,US,"Asian, Asian Fusion, Chicken, Chinese, Coffee And Tea, Juice And Smoothies, Sandwiches",TRUE,TRUE,2.3,15
+Wow Bao,Amherst,NY,14226,US,"Asian, Chinese",FALSE,TRUE,3.3,38
+Wow Bao,Saint Charles,MO,63303,US,"Asian, Asian Fusion, Bowls, Chicken, Chinese, Healthy, Vegetarian",TRUE,TRUE,2,130
+Wow Bao,Williamsport,PA,17701,US,"Asian, Chinese",FALSE,TRUE,2.8,22
+Wow Bao,Terre Haute,IN,47802,US,"Asian, Chinese",FALSE,TRUE,2.8,26
+Wow Bao,Canton,OH,44718,US,"Asian, Chinese",FALSE,TRUE,2.8,36
+Wow Bao,Tampa,FL,33647,US,"Asian, Chinese",FALSE,TRUE,2.9,23
+Wow Que Rico Lechonera Restaurant,Allentown,PA,18102,US,"American, Bakery Food, Breakfast And Brunch, Desserts, Dominican Food, Free Delivery, Latin American, Latin American Food, Spanish, Subs & Sandwiches",TRUE,TRUE,2,93
+"Xin Wang Food, Inc.",Walnut,CA,91789,US,"Asian, Asian Fusion, Chicken, Chinese, Dinner, Lunch, Seafood, Soup",TRUE,TRUE,2.4,5
+Ylive Eats & Juice,Cypress,TX,77429,US,"Juice Bar, Pickup, Takeout",FALSE,TRUE,1,1
+Zanzibar Cafe,Charlotte,NC,28206,US,"African, Baked Fish, Beer, Burgers, Cognac, Create Your Meal, Drinks, Extra Meat, Fish Meals, Fried Tilapia, Fufu, Grill, Healthy, Hookah, Lunch Meals, Lunch Portion, Main Course, Mix Drinks, Rotisserie, Salads, Sides, Tequila, Vegetarian, Vodka, Whiskey, Wine, Wings, Zanzibar Special Pepper Sauce",TRUE,TRUE,2.7,6
+Zaxby's,Hueytown,AL,35023,US,"American, Cajun, Chicken, Fried Chicken, Sandwiches, Wings",TRUE,TRUE,3.9,40
