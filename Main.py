@@ -50,16 +50,16 @@ usrestaurants = pd.read_csv( "Top US Restaurants.csv" , index_col=0)
 States = usrestaurants["state"].value_counts()
 
 df = pd.DataFrame({'States':['FL', 'CA', 'WI', 'TX', 'NY', 'GA', 'PA', 'NJ', 'TN', 'SC', ], 'Number of Restaurants':[143, 68, 62, 51, 39, 38, 32, 32, 28, 24,]})
+plt.figure(figsize=(10, 6))
 ax = df.plot.bar(x='States', y='Number of Restaurants', rot=0)
 plt.title("Top 10 most Restaurants per State")
 plt.ylabel("Number of Restaurants")
-plt.figure(figsize=(8,8))
-plt.show()
 
-ChartS = "charts/" ".png"
+
+# Save the chart as 'question2.png' in the 'charts' directory
+ChartS = "charts/question2.png"
 plt.savefig(ChartS)
 plt.show()
-
 
 
 
