@@ -38,8 +38,8 @@ df = pd.DataFrame({'Countries':['US', 'CA'], 'Number of Restaurants':[829, 1500-
 ax = df.plot.bar(x='Countries', y='Number of Restaurants', rot=0)
 plt.title("Number of Restaurants per Country")
 plt.ylabel("Number of Restaurants")
-plt.show()
 
+# Save the chart as 'question1.png' in the 'charts' directory
 ChartR = "charts/question1.png"
 plt.savefig(ChartR)
 plt.show()
