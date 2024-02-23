@@ -5,7 +5,7 @@
 
 # Project Title
 
-Top Restaurants in Nort America
+Top Restaurants in North America
 
 ## Description
 
